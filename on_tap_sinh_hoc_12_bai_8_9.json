@@ -1,0 +1,1012 @@
+{
+  "title": "Ôn tập Sinh học 12 – Bài 8 và Bài 9",
+  "subject": "Sinh học",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "Câu 1. Đối tượng nghiên cứu di truyền của Mendel là",
+      "options": [
+        "A. đậu Hà Lan.",
+        "B. ruồi giấm.",
+        "C. cà chua.",
+        "D. châu chấu."
+      ],
+      "correct": "A. đậu Hà Lan.",
+      "explanation": "Mendel dùng đậu Hà Lan vì cây dễ trồng, có nhiều cặp tính trạng tương phản, thời gian sinh trưởng tương đối ngắn và có thể tự thụ phấn.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "NB"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "Câu 2. <B> Khi đề xuất giả thuyết mỗi tính trạng do một cặp nhân tố di truyền quy định, các nhân tố di truyền trong tế bào không hòa trộn với nhau và phân li đồng đều về các giao tử. Mendel kiểm tra giả thuyết của mình bằng cách nào sau đây?",
+      "options": [
+        "A. Cho F1 lai phân tích.",
+        "B. Cho F2 tự thụ phấn.",
+        "C. Cho F1 giao phấn với nhau.",
+        "D. Cho F1 tự thụ phấn."
+      ],
+      "correct": "A. Cho F1 lai phân tích.",
+      "explanation": "Lai phân tích F1 với cá thể đồng hợp lặn giúp kiểm tra xem F1 tạo hai loại giao tử mang hai allele với tỉ lệ bằng nhau hay không.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "TH"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "Câu 3. <B> Phép lai nào sau đây được gọi là phép lai phân tích?",
+      "options": [
+        "A. Aa × aa.",
+        "B. AA × AA.",
+        "C. AA × Aa.",
+        "D. Aa × Aa."
+      ],
+      "correct": "A. Aa × aa.",
+      "explanation": "Lai phân tích là phép lai cá thể có kiểu hình trội cần xác định kiểu gene với cá thể đồng hợp lặn. Trong các phương án, Aa × aa phù hợp.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "NB"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "Câu 4. <B> Cơ thể có kiểu gene nào sau đây là cơ thể đồng hợp tử về tất cả các cặp gene đang xét?",
+      "options": [
+        "A. AABBdd.",
+        "B. AabbDD.",
+        "C. aaBBDd.",
+        "D. aaBbDD."
+      ],
+      "correct": "A. AABBdd.",
+      "explanation": "AABBdd có cả ba cặp allele đồng hợp. Các phương án B, C, D lần lượt có cặp Bb, Dd, Bb dị hợp.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "NB"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "Câu 5. <B> Cơ thể có kiểu gene nào sau đây là cơ thể dị hợp tử về hai cặp gene?",
+      "options": [
+        "A. aaBbDd.",
+        "B. AaBbDd.",
+        "C. aabbdd.",
+        "D. aaBbDD."
+      ],
+      "correct": "A. aaBbDd.",
+      "explanation": "aaBbDd có đúng hai cặp dị hợp là Bb và Dd. B có ba cặp dị hợp; C không có cặp dị hợp; D chỉ có một cặp dị hợp.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "NB"
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "question": "Câu 6. <B> Cơ thể có kiểu gene nào sau đây khi giảm phân cho nhiều loại giao tử nhất?",
+      "options": [
+        "A. AaBbDd.",
+        "B. AabbDD.",
+        "C. aaBBDd.",
+        "D. AaBbDD."
+      ],
+      "correct": "A. AaBbDd.",
+      "explanation": "Số loại giao tử khi các cặp gene phân li độc lập là 2^n, với n là số cặp dị hợp. AaBbDd có 3 cặp dị hợp nên tạo 8 loại giao tử, nhiều nhất trong các lựa chọn.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "TH"
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "Câu 7. Trong thí nghiệm thực hành lai giống, để nghiên cứu sự di truyền của một tính trạng ở một số loài cá cảnh. Công thức lai nào sau đây đã được bố trí sai?",
+      "options": [
+        "A. Cá mún mắt đỏ × cá kiếm mắt đen.",
+        "B. Cá mún mắt xanh × cá mún mắt đỏ.",
+        "C. Cá kiếm mắt đen × cá kiếm mắt đỏ.",
+        "D. Cá khổng tước có chấm màu × cá khổng tước không có chấm màu."
+      ],
+      "correct": "A. Cá mún mắt đỏ × cá kiếm mắt đen.",
+      "explanation": "Để nghiên cứu di truyền một tính trạng trong một loài, phép lai cần được thực hiện giữa các cá thể cùng loài. Cá mún và cá kiếm là hai loài khác nhau.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "TH"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "Câu 8. <B> Quy luật phân li có cơ sở tế bào học nào sau đây?",
+      "options": [
+        "A. Sự phân li cặp NST tương đồng trong giảm phân dẫn đến sự phân li của cặp allele trong cặp NST tương đồng.",
+        "B. Sự phân li và tổ hợp của cặp nhân tố di truyền trong giảm phân và thụ tinh.",
+        "C. Sự phân li và tổ hợp của cặp NST tương đồng trong giảm phân và thụ tinh.",
+        "D. Sự phân li và tổ hợp của các cặp NST tương đồng trong giảm phân và thụ tinh đưa đến sự phân li và tổ hợp của các cặp allele."
+      ],
+      "correct": "A. Sự phân li cặp NST tương đồng trong giảm phân dẫn đến sự phân li của cặp allele trong cặp NST tương đồng.",
+      "explanation": "Hai allele của một gene nằm trên cặp NST tương đồng. Khi cặp NST tương đồng phân li trong giảm phân, hai allele cũng phân li về các giao tử.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "TH"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "Câu 9. Các bước trong phương pháp thí nghiệm và phân tích cơ thể lai của Mendel gồm các bước như sau: 1. Phân tích và giải thích kết quả lai. 2. Kiểm chứng giả thuyết. 3. Lai các dòng thuần khác nhau về một hoặc một vài cặp tính trạng tương phản. 4. Đề xuất giả thuyết mới. 5. Đề xuất quy luật di truyền. 6. Tạo các dòng thuần chủng. Trình tự nào sau đây đúng về các bước Mendel đã tiến hành nghiên cứu để rút ra được quy luật di truyền?",
+      "options": [
+        "A. 6→3→1→4→2→5.",
+        "B. 6→1→2→3→4→5.",
+        "C. 6→3→2→4→1→5.",
+        "D. 6→1→2→4→3→5."
+      ],
+      "correct": "A. 6→3→1→4→2→5.",
+      "explanation": "Mendel tạo dòng thuần, tiến hành lai, phân tích kết quả, hình thành giả thuyết, kiểm chứng giả thuyết rồi khái quát thành quy luật di truyền.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "TH"
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "Câu 10. <B> Trong quy luật phân li độc lập, nếu P thuần chủng khác nhau bởi n cặp tính trạng tương phản, tính trạng trội là trội hoàn toàn thì số loại kiểu hình ở F2 là",
+      "options": [
+        "A. 2n.",
+        "B. 9: 3: 3: 1.",
+        "C. (3: 1)n.",
+        "D. 4."
+      ],
+      "correct": "A. 2n.",
+      "explanation": "Mỗi cặp gene có hai kiểu hình ở F2. Với n cặp gene phân li độc lập, số loại kiểu hình là 2^n. (3:1)^n là tỉ lệ kiểu hình tổng quát, không phải số loại.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "TH"
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "Câu 11.<B> Với n cặp gene dị hợp tử ở F1 di truyền độc lập thì số loại giao tử ở F1 là bao nhiêu?",
+      "options": [
+        "A. 2n.",
+        "B. 1/2n.",
+        "C. 3n.",
+        "D. 4n."
+      ],
+      "correct": "A. 2n.",
+      "explanation": "Mỗi cặp gene dị hợp cho hai khả năng allele trong giao tử. Với n cặp dị hợp phân li độc lập, số loại giao tử là 2^n.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "NB"
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "Câu 12. <B> Theo lí thuyết, cơ thể có kiểu gene nào sau đây tạo ra giao tử Ab với tỉ lệ 25%?",
+      "options": [
+        "A. AaBb.",
+        "B. Aabb.",
+        "C. AABb.",
+        "D. AaBB."
+      ],
+      "correct": "A. AaBb.",
+      "explanation": "AaBb tạo bốn loại giao tử AB, Ab, aB, ab với tỉ lệ bằng nhau 1/4. Các kiểu gene còn lại không tạo giao tử Ab với tỉ lệ 25%.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "TH"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "Câu 13. <B> Phát biểu nào sau đây không thuộc về bản chất của quy luật phân li của Mendel?",
+      "options": [
+        "A. Mỗi tính trạng của cơ thể do nhiều cặp gene quy định.",
+        "B. Mỗi tính trạng của cơ thể do một cặp nhân tố di truyền quy định.",
+        "C. Do sự phân li đồng đều của cặp nhân tố di truyền nên mỗi giao tử chỉ chứa một nhân tố của cặp.",
+        "D. F1 tuy là cơ thể lai nhưng khi tạo giao tử thì giao tử là thuần khiết."
+      ],
+      "correct": "A. Mỗi tính trạng của cơ thể do nhiều cặp gene quy định.",
+      "explanation": "Quy luật phân li xét một tính trạng do một cặp nhân tố di truyền (allele) quy định. Mỗi giao tử chỉ nhận một allele của cặp.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "TH"
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "Câu 14. <B> Điều kiện cơ bản đảm bảo cho sự di truyền độc lập các cặp tính trạng là",
+      "options": [
+        "A. mỗi gene phải nằm trên mỗi NST khác nhau.",
+        "B. các gene không có hoà lẫn vào nhau.",
+        "C. số lượng cá thể nghiên cứu phải lớn.",
+        "D. gene trội phải lấn át hoàn toàn gene lặn."
+      ],
+      "correct": "A. mỗi gene phải nằm trên mỗi NST khác nhau.",
+      "explanation": "Điều kiện cơ bản để các cặp gene phân li độc lập là chúng nằm trên các cặp NST tương đồng khác nhau (theo mô hình Mendel).",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "TH"
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "question": "Câu 15. <B> Ở đậu Hà Lan, allele A quy định hạt vàng trội hoàn toàn so với allele a quy định hạt xanh; allele B quy định vỏ trơn trội hoàn toàn so với allele b quy định vỏ nhăn, hai gene này nằm trên 2 cặp NST tương đồng, quá trình giảm phân không phát sinh đột biến. Cho đậu hạt vàng, vỏ trơn dị hợp tử về 2 cặp gene tự thụ phấn được F1. Theo lí thuyết, xác suất thu được đậu hạt vàng, vỏ trơn dị hợp tử về 2 cặp gene ở F1 là bao nhiêu?",
+      "options": [
+        "A. 1/4.",
+        "B. 9/16.",
+        "C. 1/16.",
+        "D. 3/8."
+      ],
+      "correct": "A. 1/4.",
+      "explanation": "Phép lai AaBb × AaBb. Xác suất đời con AaBb bằng P(Aa) × P(Bb) = 1/2 × 1/2 = 1/4.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "question": "Câu 16. <B> Ở đậu Hà Lan, allele A quy định hạt vàng trội hoàn toàn so với allele a quy định hạt xanh; allele B quy định vỏ trơn trội hoàn toàn so với allele b quy định vỏ nhăn, hai gene này nằm trên 2 cặp NST tương đồng. Phép lai nào sau đây sẽ không xuất hiện kiểu hình hạt xanh, vỏ nhăn ở thế hệ sau?",
+      "options": [
+        "A. AaBB × aabb.",
+        "B. AaBb × AaBb.",
+        "C. Aabb × aaBb.",
+        "D. AaBb × Aabb."
+      ],
+      "correct": "A. AaBB × aabb.",
+      "explanation": "Kiểu hình hạt xanh, vỏ nhăn phải có kiểu gene aabb. Ở phép lai A, gene B có phép lai BB × bb nên toàn bộ con là Bb, không thể có bb.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "Câu 17. <B> Theo lí thuyết, cơ thể có kiểu gene AabbDD giảm phân bình thường sẽ sinh ra giao tử AbD với tỉ lệ bao nhiêu?",
+      "options": [
+        "A. 50%.",
+        "B. 10%.",
+        "C. 12,5%.",
+        "D. 25%."
+      ],
+      "correct": "A. 50%.",
+      "explanation": "Ở gene A, xác suất nhận A là 1/2; gene B luôn cho b; gene D luôn cho D. Vậy xác suất AbD = 1/2 × 1 × 1 = 50%.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "TH"
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "question": "Câu 18. <B> Trong quy luật phân li độc lập, nếu P thuần chủng khác nhau bởi n cặp tính trạng tương phản, tính trạng trội là trội hoàn toàn thì số loại kiểu gene ở F2 là",
+      "options": [
+        "A. 3n.",
+        "B. 2n.",
+        "C. (3: 1)n.",
+        "D. (1: 2: 1)n."
+      ],
+      "correct": "A. 3n.",
+      "explanation": "Mỗi cặp gene có ba kiểu gene ở F2: đồng hợp trội, dị hợp và đồng hợp lặn. Với n cặp gene phân li độc lập, số loại kiểu gene là 3^n.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "TH"
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "Câu 19. <B> Cho cây lúa hạt tròn lai với cây lúa hạt dài, F1 thu được 100% cây lúa hạt dài. Cho F1 tự thụ phấn được F2. Biết tính trạng hình dạng hạt lúa do một cặp gene có 2 allele quy định. Theo lí thuyết, trong số cây lúa hạt dài ở F2 khi tự thụ phấn cho F3 toàn lúa hạt dài chiếm tỉ lệ là bao nhiêu?",
+      "options": [
+        "A. 1/3.",
+        "B. 1/4.",
+        "C. 3/4.",
+        "D. 2/3."
+      ],
+      "correct": "A. 1/3.",
+      "explanation": "Quy ước A hạt dài, a hạt tròn. F1 Aa tự thụ tạo F2 gồm 1AA:2Aa:1aa. Trong nhóm hạt dài (AA và Aa), cây AA chiếm (1/4)/(3/4) = 1/3; AA tự thụ cho toàn hạt dài.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "Câu 20. <B> Cho cây lúa hạt tròn lai với cây lúa hạt dài, F1 thu được 100% cây lúa hạt dài. Cho F1 tự thụ phấn được F2. Biết tính trạng hình dạng hạt lúa do một cặp gene có 2 allele quy định Theo lí thuyết, trong số cây lúa hạt dài ở F2 khi tự thụ phấn cho F3 phân tính chiếm tỉ lệ là bao nhiêu?",
+      "options": [
+        "A. 2/3.",
+        "B. 1/4.",
+        "C. 1/3.",
+        "D. 3/4."
+      ],
+      "correct": "A. 2/3.",
+      "explanation": "F2 có cây hạt dài gồm AA và Aa theo tỉ lệ 1:2. Chỉ cây dị hợp Aa tự thụ mới phân tính, nên trong số cây hạt dài, tỉ lệ phân tính là 2/3.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "Câu 21. <H> Cho biết mỗi gene quy định một tính trạng. Phép lai nào sau đây cho tỉ lệ phân li kiểu gene ở đời con là: 2: 2: 1: 1: 1: 1?",
+      "options": [
+        "A. AaBb × aaBb.",
+        "B. AaBb × AaBb.",
+        "C. Aabb × aaBb.",
+        "D. Aabb × AAbb."
+      ],
+      "correct": "A. AaBb × aaBb.",
+      "explanation": "Ở gene A: Aa × aa cho Aa:aa = 1:1. Ở gene B: Bb × Bb cho BB:Bb:bb = 1:2:1. Kết hợp độc lập được các hệ số 1,2,1,1,2,1, tương ứng sắp xếp là 2:2:1:1:1:1.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "Câu 22. <H> Cho cây có kiểu gene AaBbDd tự thụ phấn qua nhiều thế hệ. Nếu các cặp gene này nằm trên các cặp NST khác nhau thì số dòng thuần tối đa về cả 3 cặp gene có thể được tạo ra là bao nhiêu?",
+      "options": [
+        "A. 8.",
+        "B. 3.",
+        "C. 1.",
+        "D. 6."
+      ],
+      "correct": "A. 8.",
+      "explanation": "Mỗi cặp gene có thể cố định theo một trong hai trạng thái đồng hợp. Với ba cặp gene phân li độc lập, số tổ hợp đồng hợp tối đa là 2^3 = 8 dòng thuần.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "TH"
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "question": "Câu 23. <H> Ở đậu Hà Lan, allele A quy định hạt vàng trội hoàn toàn so với allele a quy định hạt xanh; allele B quy định vỏ trơn trội hoàn toàn so với allele b quy định vỏ nhăn. Lai phân tích một cây đậu Hà Lan (T) mang kiểu hình trội về cả 2 tính trạng, thế hệ sau được tỉ lệ 50% cây hạt vàng, vỏ trơn : 50% cây hạt xanh, vỏ trơn. Cây đậu Hà Lan (T) có kiểu gene nào sau đây?",
+      "options": [
+        "A. AaBB.",
+        "B. aabb.",
+        "C. AABb.",
+        "D. AABB."
+      ],
+      "correct": "A. AaBB.",
+      "explanation": "Lai phân tích với aabb cho tỉ lệ vàng:xanh = 1:1 nên cây T dị hợp Aa. Tất cả con đều vỏ trơn, trong khi cây kiểm tra là bb, nên cây T phải là BB. Kiểu gene là AaBB.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "Câu 24: Ở người, gen quy định nhóm máu A, B, O và AB có 3 alen: IA, IB, IO trên NST thường. Một cặp vợ chồng có nhóm máu A và B sinh được 1 trai đầu lòng có nhóm máu O. Kiểu gen về nhóm máu của cặp vợ chồng này là:",
+      "options": [
+        "A. chồng IAIO vợ IBIO.",
+        "B. chồng IBIO vợ IAIO.",
+        "C. chồng IAIO vợ IAIO.",
+        "D. một người IAIO người còn lại IBIO"
+      ],
+      "correct": "A. chồng IAIO vợ IBIO.",
+      "explanation": "Con nhóm máu O có kiểu gene IOIO nên mỗi bố mẹ phải mang và truyền allele IO. Người nhóm máu A là IAIO, người nhóm máu B là IBIO. Phương án D cũng diễn đạt hai kiểu gene đó nhưng không ghi thứ tự; do đó câu hỏi có hai phương án nội dung tương đương, A là phương án ghi đúng theo thứ tự chồng – vợ.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 25,
+      "type": "true_false",
+      "question": "Câu 1. Ở một loài thực vật, allele A quy định thân cao trội hoàn toàn so với allele a quy định thân thấp; allele B quy định hoa đỏ trội hoàn toàn so với allele b quy định hoa trắng, mỗi cặp gene nằm trên một cặp NST thường. Lai cây (P) thân thấp, hoa đỏ với cây thân cao, hoa trắng thu được 100% cây thân cao, hoa đỏ. Cho F1 tự thụ phấn thu được F2. Theo lí thuyết, mỗi phát biểu sau đây ĐÚNG hay SAI? - Ý a: Lấy ngẫu nhiên 1 cây thân cao, hoa trắng ở F2 xác suất thu được cây thuần chủng là 1/3.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Đúng",
+      "explanation": "P phải là aaBB × AAbb nên F1 AaBb. Ở F2, cây thân cao hoa trắng gồm AAbb (1/16) và Aabb (2/16). Trong nhóm này, cây thuần chủng AAbb chiếm (1/16)/(3/16) = 1/3.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 26,
+      "type": "true_false",
+      "question": "Câu 1. Ở một loài thực vật, allele A quy định thân cao trội hoàn toàn so với allele a quy định thân thấp; allele B quy định hoa đỏ trội hoàn toàn so với allele b quy định hoa trắng, mỗi cặp gene nằm trên một cặp NST thường. Lai cây (P) thân thấp, hoa đỏ với cây thân cao, hoa trắng thu được 100% cây thân cao, hoa đỏ. Cho F1 tự thụ phấn thu được F2. Theo lí thuyết, mỗi phát biểu sau đây ĐÚNG hay SAI? - Ý b: Cho 2 cây thân cao, hoa trắng ở F2 giao phấn ngẫu nhiên, có thể thu được đời con có 100% cây thân cao, hoa trắng.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Đúng",
+      "explanation": "Có thể chọn hai cây AAbb ở F2. Phép lai AAbb × AAbb tạo 100% AAbb, đều thân cao, hoa trắng.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 27,
+      "type": "true_false",
+      "question": "Câu 1. Ở một loài thực vật, allele A quy định thân cao trội hoàn toàn so với allele a quy định thân thấp; allele B quy định hoa đỏ trội hoàn toàn so với allele b quy định hoa trắng, mỗi cặp gene nằm trên một cặp NST thường. Lai cây (P) thân thấp, hoa đỏ với cây thân cao, hoa trắng thu được 100% cây thân cao, hoa đỏ. Cho F1 tự thụ phấn thu được F2. Theo lí thuyết, mỗi phát biểu sau đây ĐÚNG hay SAI? - Ý c: Cho 1 cây thân cao, hoa trắng ở F2 tự thụ phấn thì có thể thu được đời con có 75% số cây thân cao, hoa trắng.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Đúng",
+      "explanation": "Chọn cây Aabb. Khi Aabb tự thụ, locus A cho 3/4 A- và locus B luôn bb; do đó 3/4 đời con thân cao, hoa trắng.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 28,
+      "type": "true_false",
+      "question": "Câu 1. Ở một loài thực vật, allele A quy định thân cao trội hoàn toàn so với allele a quy định thân thấp; allele B quy định hoa đỏ trội hoàn toàn so với allele b quy định hoa trắng, mỗi cặp gene nằm trên một cặp NST thường. Lai cây (P) thân thấp, hoa đỏ với cây thân cao, hoa trắng thu được 100% cây thân cao, hoa đỏ. Cho F1 tự thụ phấn thu được F2. Theo lí thuyết, mỗi phát biểu sau đây ĐÚNG hay SAI? - Ý d: Cho 2 cây thân cao, hoa đỏ ở F2 giao phấn với nhau, có thể thu được đời con có tất cả các cây đều có thân cao, hoa trắng.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Sai",
+      "explanation": "Cả hai cây bố mẹ đều hoa đỏ nên mang ít nhất một allele B. Muốn toàn bộ con hoa trắng thì mọi con phải bb, đòi hỏi cả hai bố mẹ đều bb; điều này mâu thuẫn với kiểu hình hoa đỏ.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 29,
+      "type": "true_false",
+      "question": "Câu 2. Ở một loài thực vật, allele A quy định thân cao trội hoàn toàn so với allele a quy định thân thấp; allele B quy định hoa đỏ trội hoàn toàn so với allele b quy định hoa trắng, các gene phân li độc lập. Theo lí thuyết, mỗi phát biểu sau đây ĐÚNG hay SAI? - Ý a: Cho cây aaBb lai phân tích thì đời con có 2 loại kiểu hình, trong đó cây thân thấp, hoa trắng chiếm 50%.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Đúng",
+      "explanation": "Lai phân tích aaBb × aabb tạo 1/2 aaBb (thân thấp, hoa đỏ) và 1/2 aabb (thân thấp, hoa trắng).",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 30,
+      "type": "true_false",
+      "question": "Câu 2. Ở một loài thực vật, allele A quy định thân cao trội hoàn toàn so với allele a quy định thân thấp; allele B quy định hoa đỏ trội hoàn toàn so với allele b quy định hoa trắng, các gene phân li độc lập. Theo lí thuyết, mỗi phát biểu sau đây ĐÚNG hay SAI? - Ý b: Cho cây thân cao, hoa trắng tự thụ phấn, nếu đời F1 có 2 loại kiểu hình thì chứng tỏ F1 có 3 loại kiểu gene.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Đúng",
+      "explanation": "Cây thân cao, hoa trắng có dạng A-bb. Nếu tự thụ mà có hai kiểu hình thì cây phải là Aabb; đời con có AAbb, Aabb và aabb, tức ba kiểu gene.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 31,
+      "type": "true_false",
+      "question": "Câu 2. Ở một loài thực vật, allele A quy định thân cao trội hoàn toàn so với allele a quy định thân thấp; allele B quy định hoa đỏ trội hoàn toàn so với allele b quy định hoa trắng, các gene phân li độc lập. Theo lí thuyết, mỗi phát biểu sau đây ĐÚNG hay SAI? - Ý c: Cho cây thân cao, hoa đỏ (P) tự thụ phấn, thu được F1. Nếu F1 có thân thấp, hoa trắng thì chứng tỏ F1 có 6 loại kiểu gene.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Sai",
+      "explanation": "Để xuất hiện thân thấp, hoa trắng aabb, cây P phải dị hợp cả hai locus: AaBb. AaBb tự thụ tạo 3 × 3 = 9 loại kiểu gene, không phải 6.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 32,
+      "type": "true_false",
+      "question": "Câu 2. Ở một loài thực vật, allele A quy định thân cao trội hoàn toàn so với allele a quy định thân thấp; allele B quy định hoa đỏ trội hoàn toàn so với allele b quy định hoa trắng, các gene phân li độc lập. Theo lí thuyết, mỗi phát biểu sau đây ĐÚNG hay SAI? - Ý d: Các cây thân thấp, hoa đỏ giao phấn ngẫu nhiên thì đời con có tối đa 3 loại kiểu gene.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Đúng",
+      "explanation": "Cây thân thấp, hoa đỏ có kiểu gene aaBB hoặc aaBb. Locus A luôn aa; locus B có thể tạo BB, Bb hoặc bb. Vì vậy tối đa có ba kiểu gene ở đời con.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 33,
+      "type": "true_false",
+      "question": "Câu 3. Cho biết mỗi gene quy định 1 tính trạng, trội lặn hoàn toàn. Tiến hành phép lai ♂ AaBbCcDdEE × ♀ aaBbccDdEE, thu được F1. Theo lí thuyết, mỗi phát biểu sau đây ĐÚNG hay SAI? - Ý a: Đời F1 có 64 kiểu tổ hợp giao tử.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Đúng",
+      "explanation": "Cơ thể đực có bốn cặp dị hợp nên tạo 2^4 = 16 loại giao tử; cơ thể cái có hai cặp dị hợp nên tạo 2^2 = 4 loại. Số tổ hợp là 16 × 4 = 64.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 34,
+      "type": "true_false",
+      "question": "Câu 3. Cho biết mỗi gene quy định 1 tính trạng, trội lặn hoàn toàn. Tiến hành phép lai ♂ AaBbCcDdEE × ♀ aaBbccDdEE, thu được F1. Theo lí thuyết, mỗi phát biểu sau đây ĐÚNG hay SAI? - Ý b: Kiểu hình trội về tất cả các tính trạng chiếm tỉ lệ 9/64.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Đúng",
+      "explanation": "Xác suất kiểu hình trội lần lượt ở A, B, C, D, E là 1/2, 3/4, 1/2, 3/4, 1. Nhân lại được 9/64.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 35,
+      "type": "true_false",
+      "question": "Câu 3. Cho biết mỗi gene quy định 1 tính trạng, trội lặn hoàn toàn. Tiến hành phép lai ♂ AaBbCcDdEE × ♀ aaBbccDdEE, thu được F1. Theo lí thuyết, mỗi phát biểu sau đây ĐÚNG hay SAI? - Ý c: F1 có 16 loại kiểu hình và 36 kiểu gene.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Đúng",
+      "explanation": "Số kiểu hình là 2 × 2 × 2 × 2 × 1 = 16. Số kiểu gene là 2 × 3 × 2 × 3 × 1 = 36.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 36,
+      "type": "true_false",
+      "question": "Câu 3. Cho biết mỗi gene quy định 1 tính trạng, trội lặn hoàn toàn. Tiến hành phép lai ♂ AaBbCcDdEE × ♀ aaBbccDdEE, thu được F1. Theo lí thuyết, mỗi phát biểu sau đây ĐÚNG hay SAI? - Ý d: Có 4 kiểu gene quy định kiểu hình trội về cả 5 tính trạng.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Sai",
+      "explanation": "Kiểu hình trội cả năm tính trạng có 2 kiểu gene tại A, 2 tại B, 1 tại C, 2 tại D và 1 tại E. Tổng số là 2 × 2 × 1 × 2 × 1 = 8 kiểu gene.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 37,
+      "type": "true_false",
+      "question": "Câu 4. Một loài động vật, mỗi gene quy định một tính trạng, allele trội là trội hoàn toàn. Phép lai P: AaBbDdEe × AabbDdee, thu được F1. Theo lí thuyết, mỗi phát biểu sau đây ĐÚNG hay SAI? - Ý a: Phép lai có 64 kiểu tổ hợp giao tử.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Đúng",
+      "explanation": "Cơ thể thứ nhất có bốn cặp dị hợp tạo 16 loại giao tử; cơ thể thứ hai có hai cặp dị hợp tạo 4 loại giao tử. Có 16 × 4 = 64 tổ hợp.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 38,
+      "type": "true_false",
+      "question": "Câu 4. Một loài động vật, mỗi gene quy định một tính trạng, allele trội là trội hoàn toàn. Phép lai P: AaBbDdEe × AabbDdee, thu được F1. Theo lí thuyết, mỗi phát biểu sau đây ĐÚNG hay SAI? - Ý b: Ở F1, loại cá thể có kiểu gene đồng hợp lặn về cả 4 cặp gene chiếm tỉ lệ 1/64.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Đúng",
+      "explanation": "Xác suất aabb ddee = 1/4 × 1/2 × 1/4 × 1/2 = 1/64.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 39,
+      "type": "true_false",
+      "question": "Câu 4. Một loài động vật, mỗi gene quy định một tính trạng, allele trội là trội hoàn toàn. Phép lai P: AaBbDdEe × AabbDdee, thu được F1. Theo lí thuyết, mỗi phát biểu sau đây ĐÚNG hay SAI? - Ý c: Ở F1, loại kiểu hình có 2 tính trạng trội và 2 tính trạng lặn chiếm tỉ lệ 11/32.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Sai",
+      "explanation": "Xác suất trội tại bốn locus lần lượt là 3/4, 1/2, 3/4, 1/2. Xác suất có đúng hai tính trạng trội là 23/64, không phải 11/32.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 40,
+      "type": "true_false",
+      "question": "Câu 4. Một loài động vật, mỗi gene quy định một tính trạng, allele trội là trội hoàn toàn. Phép lai P: AaBbDdEe × AabbDdee, thu được F1. Theo lí thuyết, mỗi phát biểu sau đây ĐÚNG hay SAI? - Ý d: Ở F1, có 4 kiểu gene quy định kiểu hình A-bbD-E-.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Đúng",
+      "explanation": "A- có hai kiểu gene AA, Aa; bb có một kiểu gene; D- có DD, Dd; E- ở phép lai Ee × ee chỉ có Ee. Tổng số 2 × 1 × 2 × 1 = 4 kiểu gene.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 41,
+      "type": "short",
+      "question": "Câu 1. Cho biết mỗi gene quy định một tính trạng, allele trội là trội hoàn toàn. Theo lí thuyết, có bao nhiêu phép lai sau đây cho đời con có 2 loại kiểu hình? I. AaBb × aabb. II. aaBb × AaBB. III. aaBb × aaBb. IV. AABb × AaBb.",
+      "correct": "3",
+      "explanation": "I cho bốn kiểu hình; II, III và IV mỗi phép lai cho hai kiểu hình. Vậy có 3 phép lai thỏa mãn.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 42,
+      "type": "short",
+      "question": "Câu 2. Cho biết mỗi gene quy định một tính trạng, allele trội là trội hoàn toàn. Các gene nằm trên các cặp NST tương đồng khác nhau. Theo lí thuyết, phép lai AaBbDdEE × aaBBDdee cho đời con có A. Số tổ hợp ở đời con B. Số loại kiểu gene và loại kiểu hình ở đời con. C. Tỉ lệ kiểu hình trội 4 tính trạng ở đời con. D. Tỉ loại kiểu gene AaBbDdEe ở đời con.",
+      "correct": "A. 16; B. 12 loại kiểu gene và 4 loại kiểu hình; C. 3/8; D. 1/8.",
+      "explanation": "Bố mẹ lần lượt tạo 2^3 = 8 và 2^1 = 2 loại giao tử nên có 16 tổ hợp. Số kiểu gene là 2 × 2 × 3 × 1 = 12; số kiểu hình là 2 × 1 × 2 × 1 = 4. Xác suất kiểu hình trội cả bốn tính trạng là 1/2 × 1 × 3/4 × 1 = 3/8. Xác suất AaBbDdEe là 1/2 × 1/2 × 1/2 × 1 = 1/8.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 43,
+      "type": "short",
+      "question": "Câu 3. Ở một loài thực vật, allele A quy định thân cao trội hoàn toàn so với allele a quy định thân thấp; allele B quy định quả tròn trội hoàn toàn so với b quy định quả dài, hai cặp gene nằm trên hai cặp NST tương đồng khác nhau. Cho lai 2 cây phép lai sau đây P: AaBb × aabb thu được F1 có tỉ lệ kiểu hình, kiểu gene và số loại kiểu gene ở đời con.",
+      "correct": "Tỉ lệ kiểu gene: 1 AaBb : 1 Aabb : 1 aaBb : 1 aabb. Tỉ lệ kiểu hình: 1 thân cao, quả tròn : 1 thân cao, quả dài : 1 thân thấp, quả tròn : 1 thân thấp, quả dài. Có 4 loại kiểu gene.",
+      "explanation": "AaBb tạo bốn loại giao tử AB, Ab, aB, ab với tỉ lệ bằng nhau; aabb chỉ tạo giao tử ab. Đời con có bốn kiểu gene và bốn kiểu hình với tỉ lệ bằng nhau.",
+      "image": null,
+      "topic": "Bài 8. Quy luật Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "question": "Câu 1<B>. Thực chất của tương tác gene không allele là",
+      "options": [
+        "A. tác động qua lại giữa các sản phẩm của gene.",
+        "B. các gene tác động trực tiếp với nhau trong quá trình hình thành tính trạng.",
+        "C. các gene phân li độc lập, tác động riêng rẽ trong quá trình hình thành tính trạng.",
+        "D. các gene di truyền liên kết, tác động riêng rẽ trong quá trình hình thành tính trạng."
+      ],
+      "correct": "A. tác động qua lại giữa các sản phẩm của gene.",
+      "explanation": "Các gene không allele thường tương tác thông qua sản phẩm của chúng trong quá trình hình thành tính trạng.",
+      "image": null,
+      "topic": "Bài 9. Mở rộng học thuyết Mendel",
+      "level": "NB"
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "question": "Câu 2<B>. Cho các kiểu tương tác giữa các allele: I. Trội lặn hoàn toàn. II. Trội lặn không hoàn toàn. III. Đồng trội. IV. Tương tác bổ sung. V. Tương tác cộng gộp. Tương tác giữa các allele của cùng một gene gồm:",
+      "options": [
+        "A. I, II, III.",
+        "B. II, III, IV.",
+        "C. II, IV, V.",
+        "D. I, III, V."
+      ],
+      "correct": "A. I, II, III.",
+      "explanation": "Trội hoàn toàn, trội không hoàn toàn và đồng trội là các kiểu tương tác giữa các allele của cùng một gene. Bổ sung và cộng gộp là tương tác giữa các gene không allele.",
+      "image": null,
+      "topic": "Bài 9. Mở rộng học thuyết Mendel",
+      "level": "NB"
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "question": "Câu 3<B>. Cho các kiểu tương tác giữa các allele: I. Trội lặn hoàn toàn. II. Trội lặn không hoàn toàn. III. Đồng trội. IV. Tương tác bổ sung. V. Tương tác cộng gộp. Tương tác giữa các allele thuộc các gene khác nhau gồm:",
+      "options": [
+        "A. I, II.",
+        "B. II, III.",
+        "C. III, IV.",
+        "D. IV, V."
+      ],
+      "correct": "D. IV, V.",
+      "explanation": "Tương tác bổ sung và tương tác cộng gộp là hai dạng tương tác giữa các gene không allele.",
+      "image": null,
+      "topic": "Bài 9. Mở rộng học thuyết Mendel",
+      "level": "NB"
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "question": "Câu 4<B>. Gene đa hiệu là",
+      "options": [
+        "A. nhiều gene cùng tác động đến sự biểu hiện của nhiều tính trạng.",
+        "B. một gene mà sản phẩm của nó ảnh hưởng đến sự biểu hiện của nhiều tính trạng.",
+        "C. một gene tác động đến sự biểu hiện của 1 tính trạng.",
+        "D. nhiều gene tác động đến sự biểu hiện của 1 tính trạng."
+      ],
+      "correct": "B. một gene mà sản phẩm của nó ảnh hưởng đến sự biểu hiện của nhiều tính trạng.",
+      "explanation": "Gene đa hiệu là một gene ảnh hưởng đến nhiều tính trạng khác nhau.",
+      "image": null,
+      "topic": "Bài 9. Mở rộng học thuyết Mendel",
+      "level": "NB"
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "question": "Câu 5<B>. Trường hợp hai hay nhiều cặp gene cùng tác động đến sự hình thành một tính trạng được gọi là hiện tượng",
+      "options": [
+        "A. gene đa hiệu.",
+        "B. trội không hoàn toàn.",
+        "C. tương tác gene không allele.",
+        "D. tương tác gene allele."
+      ],
+      "correct": "C. tương tác gene không allele.",
+      "explanation": "Nhiều cặp gene cùng tham gia quy định một tính trạng là tương tác giữa các gene không allele.",
+      "image": null,
+      "topic": "Bài 9. Mở rộng học thuyết Mendel",
+      "level": "NB"
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "question": "Câu 6<B>. Ở vật nuôi và cây trồng, hầu hết các tính trạng quy định tốc độ sinh trưởng, năng suất, cân nặng,… đều thuộc loại tính trạng số lượng. Các tính trạng này thường là",
+      "options": [
+        "A. tính trạng đa gene, tương tác cộng gộp.",
+        "B. tính trạng đa gene, tương tác bổ sung.",
+        "C. tính trạng đơn gene, trội lặn hoàn toàn.",
+        "D. tính trạng đơn gene, đồng trội."
+      ],
+      "correct": "A. tính trạng đa gene, tương tác cộng gộp.",
+      "explanation": "Tính trạng số lượng thường do nhiều gene cùng quy định; mỗi allele đóng góp một phần vào mức độ biểu hiện, tạo kiểu tác động cộng gộp.",
+      "image": null,
+      "topic": "Bài 9. Mở rộng học thuyết Mendel",
+      "level": "TH"
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "question": "Câu 7<B>. Ở một loài thực vật, tính trạng màu hoa do hai cặp gene A, a và B, b phân li độc lập cùng qui định. Kiểu gene có cả allele A và allele B thì hoa có màu đỏ, kiểu gene chỉ có allele A hoặc chỉ có allele B thì hoa có màu vàng, kiểu gene không có 2 loại allele trên thì hoa có màu trắng. Kiểu gene nào sau đây quy định kiểu hình hoa đỏ?",
+      "options": [
+        "A. AaBb.",
+        "B. AAbb.",
+        "C. aaBB.",
+        "D. Aabb."
+      ],
+      "correct": "A. AaBb.",
+      "explanation": "Hoa đỏ cần đồng thời có allele trội A và B, tức kiểu gene A-B-. Chỉ AaBb trong các phương án có cả hai allele trội.",
+      "image": null,
+      "topic": "Bài 9. Mở rộng học thuyết Mendel",
+      "level": "TH"
+    },
+    {
+      "id": 51,
+      "type": "mcq",
+      "question": "Câu 8<H>. Khi thực hiện phép lai giữa hai cây hoa mõm chó thuần chủng có hoa màu đỏ và màu trắng với nhau thu được F1 toàn cây có hoa màu hồng. Cho F1 tự thụ phấn, thu được F2 có kiểu hình phân li theo tỉ lệ 1 đỏ : 2 hồng : 1 trắng. Có thể kết luận tính trạng màu hoa do",
+      "options": [
+        "A. một gene có 2 allele trội, lặn hoàn toàn quy định.",
+        "B. một gene có 2 allele trội, lặn không hoàn toàn quy định.",
+        "C. một gene có 2 allele đồng trội quy định.",
+        "D. hai gene, mỗi gene có 2 allele cùng quy định."
+      ],
+      "correct": "B. một gene có 2 allele trội, lặn không hoàn toàn quy định.",
+      "explanation": "F1 có kiểu hình trung gian màu hồng; F2 phân li 1 đỏ : 2 hồng : 1 trắng. Đây là dấu hiệu trội không hoàn toàn của một gene có hai allele.",
+      "image": null,
+      "topic": "Bài 9. Mở rộng học thuyết Mendel",
+      "level": "TH"
+    },
+    {
+      "id": 52,
+      "type": "mcq",
+      "question": "Câu 9<H>. Gene quy định nhóm máu ABO ở người có 3 allele. Trong đó allele IA và IB quy định kháng nguyên tương ứng A và B trên bề mặt tế bào hồng cầu và IO không có khả năng quy định kháng nguyên A và B. Người có kiểu gene IAIA và IAIO có nhóm máu A; người có kiểu gene IBIB và IBIO có nhóm máu B; người có kiểu gene IAIB có nhóm máu AB và người có kiểu gene IOIO có nhóm máu O. Kết luận nào sau đây đúng?",
+      "options": [
+        "A. Allele IA trội không hoàn toàn so với allele IO.",
+        "B. Allele IB trội không hoàn toàn so với allele IO.",
+        "C. Allele IA trội hoàn toàn so với allele IB.",
+        "D. Allele IA đồng trội với allele IB."
+      ],
+      "correct": "D. Allele IA đồng trội với allele IB.",
+      "explanation": "Kiểu gene IAIB biểu hiện đồng thời cả kháng nguyên A và B nên hai allele IA và IB đồng trội. Mỗi allele này trội hoàn toàn so với IO.",
+      "image": null,
+      "topic": "Bài 9. Mở rộng học thuyết Mendel",
+      "level": "TH"
+    },
+    {
+      "id": 53,
+      "type": "mcq",
+      "question": "Câu 10<H>. Ở người, tính trạng màu da do ít nhất 3 cặp gene quy định. Màu da đậm dần theo sự tăng số lượng allele trội có trong kiểu gene. Hiện tượng này là kết quả của sự",
+      "options": [
+        "A. tương tác trực tiếp giữa các sản phẩm của gene theo kiểu cộng gộp.",
+        "B. tương tác gián tiếp giữa các sản phẩm của gene theo kiểu cộng gộp.",
+        "C. tác động đa hiệu của gene.",
+        "D. tương tác giữa các allele của cùng một gene."
+      ],
+      "correct": "B. tương tác gián tiếp giữa các sản phẩm của gene theo kiểu cộng gộp.",
+      "explanation": "Màu da là tính trạng số lượng do nhiều gene cùng quy định. Số allele trội tăng thì mức độ sắc tố tăng, biểu hiện kiểu di truyền cộng gộp.",
+      "image": null,
+      "topic": "Bài 9. Mở rộng học thuyết Mendel",
+      "level": "TH"
+    },
+    {
+      "id": 54,
+      "type": "mcq",
+      "question": "Câu 11<H>. Ở một loài thực vật, cho lai các cây thuộc 2 dòng thuần chủng khác nhau thu được F1 100% cây hạt đỏ. Cho F1 tự tụ phấn, thu được F2 có tỉ lệ kiểu hình 9 cây hạt đỏ : 6 cây hạt nâu : 1 cây hạt trắng. Tính trạng trên di truyền theo quy luật di truyền nào?",
+      "options": [
+        "A. Phân li độc lập, sản phẩm của các gene tương tác trực tiếp kiểu cộng gộp.",
+        "B. Phân li độc lập, sản phẩm của các gene tương tác gián tiếp kiểu bổ sung.",
+        "C. Liên kết hoàn toàn, sản phẩm của các gene tương tác trực tiếp kiểu cộng gộp.",
+        "D. Liên kết hoàn toàn, sản phẩm của các gene tương tác trực tiếp kiểu bổ sung."
+      ],
+      "correct": "A. Phân li độc lập, sản phẩm của các gene tương tác trực tiếp kiểu cộng gộp.",
+      "explanation": "Tỉ lệ 9:6:1 là dạng tương tác cộng gộp của hai cặp gene phân li độc lập: nhóm A-B-, nhóm A-bb/aaB- và nhóm aabb.",
+      "image": null,
+      "topic": "Bài 9. Mở rộng học thuyết Mendel",
+      "level": "TH"
+    },
+    {
+      "id": 55,
+      "type": "mcq",
+      "question": "Câu 12<H>. Ở một loài thực vật, cả hai cặp gene A, a; B, b cùng quy định màu sắc hoa. Khi lai 2 cây đều dị hợp về 2 cặp gene thu được đời con có tỉ lệ kiểu hình 9 cây hoa đỏ : 3 cây hoa vàng : 3 cây hoa hồng : 1 cây hoa trắng. Tính trạng màu hoa di truyền theo quy luật di truyền nào?",
+      "options": [
+        "A. Đồng trội.",
+        "B. Trội hoàn toàn.",
+        "C. Tương tác bổ sung.",
+        "D. Gene đa hiệu."
+      ],
+      "correct": "B. Trội hoàn toàn.",
+      "explanation": "Tỉ lệ 9:3:3:1 là tỉ lệ phân li kiểu hình điển hình của phép lai AaBb × AaBb khi hai cặp gene phân li độc lập và mỗi gene có trội hoàn toàn.",
+      "image": null,
+      "topic": "Bài 9. Mở rộng học thuyết Mendel",
+      "level": "TH"
+    },
+    {
+      "id": 56,
+      "type": "mcq",
+      "question": "Câu 13<H>. Ở một loài thực vật, tính trạng màu hoa do hai cặp gene A, a và B, b phân li độc lập cùng qui định. Kiểu gene có cả allele A và allele B thì hoa có màu đỏ, kiểu gene chỉ có allele A hoặc chỉ có allele B thì hoa có màu vàng, kiểu gene không có 2 loại allele trên thì hoa có màu trắng. Cây hoa vàng thuần chủng có kiểu gene nào sau đây?",
+      "options": [
+        "A. AABB hoặc Aabb.",
+        "B. AAbb hoặc aaBB.",
+        "C. AAbb hoặc aabb.",
+        "D. aaBB hoặc aabb."
+      ],
+      "correct": "B. AAbb hoặc aaBB.",
+      "explanation": "Hoa vàng chỉ có một trong hai allele trội A hoặc B. Muốn thuần chủng, kiểu gene tương ứng là AAbb hoặc aaBB.",
+      "image": null,
+      "topic": "Bài 9. Mở rộng học thuyết Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 57,
+      "type": "mcq",
+      "question": "Câu 14<H>. Ở một loài thực vật, người ta giao phấn các cây hoa đỏ (P) với nhau, F1 thu được 56,25% hoa đỏ : 37,5% hoa hồng : 6,25% hoa trắng. Kiểu gene của các cây (P) có thể là",
+      "options": [
+        "A. AA × Aa.",
+        "B. AaBb × AaBB.",
+        "C. Aa × Aa.",
+        "D. AaBb × AaBb."
+      ],
+      "correct": "D. AaBb × AaBb.",
+      "explanation": "Các tỉ lệ tương ứng là 9/16 đỏ : 6/16 hồng : 1/16 trắng, phù hợp phép lai AaBb × AaBb với tương tác hai cặp gene tạo tỉ lệ 9:6:1.",
+      "image": null,
+      "topic": "Bài 9. Mở rộng học thuyết Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 58,
+      "type": "mcq",
+      "question": "Câu 15<H>. Ở một loài thực vật, tính trạng màu hoa do 2 cặp gene tương tác bổ sung qui định. Kiểu gene A-B-: hoa đỏ, A-bb và aaB-: hoa hồng, aabb: hoa trắng. Phép lai: Aabb × AaBb cho tỉ lệ các loại kiểu hình ở F1 là bao nhiêu?",
+      "options": [
+        "A. 2 đỏ: 1 hồng: 1 trắng.",
+        "B. 3 đỏ: 4 hồng: 1 trắng.",
+        "C. 1 đỏ: 2 hồng: 1 trắng.",
+        "D. 4 đỏ: 3 hồng: 1 trắng."
+      ],
+      "correct": "B. 3 đỏ: 4 hồng: 1 trắng.",
+      "explanation": "Aabb × AaBb: P(A-B-) = 3/4 × 1/2 = 3/8; P(aabb) = 1/4 × 1/2 = 1/8; phần còn lại là hoa hồng 4/8. Tỉ lệ 3:4:1.",
+      "image": null,
+      "topic": "Bài 9. Mở rộng học thuyết Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 59,
+      "type": "mcq",
+      "question": "Câu 16<H>. Ở một loài thực vật, tính trạng màu sắc hoa do 2 gene tương tác bổ sung qui định: sự có mặt của 2 gene trội A và B trong cùng một kiểu gene qui định màu hoa đỏ, các tổ hợp gene khác chỉ có 1 trong 2 loại gene trội trên cũng như kiểu gene đồng hợp lặn sẽ cho kiểu hình hoa màu trắng. Lai hai giống hoa trắng thuần chủng, F1 thu được toàn hoa đỏ. Kiểu gene của thế hệ P là:",
+      "options": [
+        "A. AABB × aabb.",
+        "B. AAbb × aabb.",
+        "C. AAbb × aaBB.",
+        "D. AAbb × Aabb."
+      ],
+      "correct": "C. AAbb × aaBB.",
+      "explanation": "Hai cây P đều trắng nhưng phải bổ sung allele trội còn thiếu cho nhau. AAbb × aaBB tạo F1 AaBb, có cả A và B nên toàn hoa đỏ.",
+      "image": null,
+      "topic": "Bài 9. Mở rộng học thuyết Mendel",
+      "level": "TH"
+    },
+    {
+      "id": 60,
+      "type": "mcq",
+      "question": "Câu 17<H>. Ở một loài thực vật, tính trạng màu sắc hoa do 2 gene tương tác bổ sung qui định: sự có mặt của 2 gene trội A và B trong cùng một kiểu gene qui định màu hoa đỏ, các tổ hợp gene khác chỉ có 1 trong 2 loại gene trội trên cũng như kiểu gene đồng hợp lặn sẽ cho kiểu hình hoa màu trắng. Lai hai giống hoa trắng thuần chủng, F1 thu được toàn hoa đỏ. Cho F1 tự thụ phấn, tỉ lệ cây hoa đỏ có kiểu gene thuần chủng trong tổng số cây hoa đỏ thu được ở F2 là:",
+      "options": [
+        "A. 9/16.",
+        "B. 7/16.",
+        "C. 1/9.",
+        "D. 3/7."
+      ],
+      "correct": "C. 1/9.",
+      "explanation": "P AAbb × aaBB tạo F1 AaBb. F1 tự thụ có 9/16 cây A-B- hoa đỏ; trong đó chỉ AABB là thuần chủng, chiếm 1/16. Tỉ lệ cần tìm là (1/16)/(9/16) = 1/9.",
+      "image": null,
+      "topic": "Bài 9. Mở rộng học thuyết Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 61,
+      "type": "mcq",
+      "question": "Câu 18<H>. Ở một loài thực vật, khi tiến hành lai giữa 2 dòng thuần chủng: dòng hoa đỏ với dòng hoa trắng thế hệ F1 thu được toàn hoa đỏ. Cho F1 thụ phấn với nhau, thế hệ F2 thu được 802 cây hoa đỏ : 534 cây hoa hồng : 89 cây hoa trắng. Cho cây F1 giao phấn với cây hoa hồng có kiểu gene dị hợp ở F2, thế hệ con lai thu được tỉ lệ kiểu hình?",
+      "options": [
+        "A. 3 cây hoa đỏ : 1 cây hoa hồng.",
+        "B. 3 cây hoa đỏ : 4 cây hoa hồng : 1 cây hoa trắng.",
+        "C. 4 cây hoa đỏ : 3 cây hoa hồng : 1 cây hoa trắng.",
+        "D. 3 cây hoa đỏ : 3 cây hoa hồng : 2 cây hoa trắng."
+      ],
+      "correct": "B. 3 cây hoa đỏ : 4 cây hoa hồng : 1 cây hoa trắng.",
+      "explanation": "Tỉ lệ F2 xấp xỉ 9:6:1, suy ra F1 AaBb. Cây hoa hồng dị hợp ở F2 có thể là Aabb hoặc aaBb. Lai AaBb với một trong hai kiểu gene này đều cho tỉ lệ 3 đỏ : 4 hồng : 1 trắng.",
+      "image": null,
+      "topic": "Bài 9. Mở rộng học thuyết Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 62,
+      "type": "mcq",
+      "question": "Câu 19. Khi lai hai thứ bí ngô quả tròn thuần chủng có kiểu gene khác nhau thu được F1 gồm toàn bí ngô quả dẹt. Cho F1 giao phấn với 1 cây khác thu được F2 có tỉ lệ kiểu hình là 3 cây quả dẹt : 4 cây quả tròn : 1 cây quả dài. Tính trạng hình dạng quả bí ngô do",
+      "options": [
+        "A. Một cặp gene quy định, trội lặn hoàn toàn.",
+        "B. Một cặp gene quy định, trội lặn không hoàn toàn.",
+        "C. Hai cặp gene quy định, tương tác bổ sung.",
+        "D. Hai cặp gene quy định, tương tác cộng gộp."
+      ],
+      "correct": "C. Hai cặp gene quy định, tương tác bổ sung.",
+      "explanation": "Hai dòng thuần quả tròn có kiểu gene khác nhau bổ sung các allele trội, tạo F1 dị hợp hai cặp gene quả dẹt. Tỉ lệ có ba kiểu hình dẹt, tròn, dài phù hợp sự tương tác của hai cặp gene.",
+      "image": null,
+      "topic": "Bài 9. Mở rộng học thuyết Mendel",
+      "level": "TH"
+    },
+    {
+      "id": 63,
+      "type": "mcq",
+      "question": "Câu 20<H>. Ở một loài thực vật, 2 cặp gene A, a; B, b nằm trên hai cặp NST khác nhau cùng quy định màu sắc hoa. Khi lai 2 cây đều dị hợp về 2 cặp gene thu được đời con có tỉ lệ kiểu hình 9 cây hoa đỏ : 3 cây hoa vàng : 3 cây hoa hồng : 1 cây hoa trắng. Kết luận nào sau đây về kiểu gene F1 sai?",
+      "options": [
+        "A. Các cây hoa đỏ F1 có 3 loại kiểu gene.",
+        "B. Các cây hoa vàng F1 có 2 loại kiểu gene.",
+        "C. Các cây hoa hồng F1 có 2 loại kiểu gene.",
+        "D. Chỉ có 1 kiểu gene quy định hoa trắng."
+      ],
+      "correct": "A. Các cây hoa đỏ F1 có 3 loại kiểu gene.",
+      "explanation": "Với phép lai AaBb × AaBb, nhóm A-B- có bốn kiểu gene: AABB, AABb, AaBB, AaBb, không phải ba. Các nhóm A-bb và aaB- mỗi nhóm có hai kiểu gene; aabb chỉ có một.",
+      "image": null,
+      "topic": "Bài 9. Mở rộng học thuyết Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 64,
+      "type": "mcq",
+      "question": "Câu 21<H>. Ở một loài thực vật giao phấn, tính trạng màu hoa do hai cặp gene A, a và B, b phân li độc lập cùng qui định. Kiểu gene có cả allele A và allele B thì hoa có màu đỏ, kiểu gene chỉ có allele A hoặc chỉ có allele B thì hoa có màu hồng, kiểu gene không có 2 loại allele trên thì hoa có màu trắng. Khi nói về kiểu gene của loài thực vật trên, kết luận nào sau đây sai?",
+      "options": [
+        "A. Trong quần thể thực vật này, cây hoa đỏ thuần chủng chỉ có 1 loại kiểu gene.",
+        "B. Trong quần thể thực vật này, cây hoa hồng thuần chủng có 3 loại kiểu gene.",
+        "C. Trong quần thể thực vật này, cây hoa trắng chỉ có 1 loại kiểu gene.",
+        "D. Trong quần thể thực vật này, cây hoa đỏ có 4 loại kiểu gene."
+      ],
+      "correct": "B. Trong quần thể thực vật này, cây hoa hồng thuần chủng có 3 loại kiểu gene.",
+      "explanation": "Hoa hồng có kiểu gene A-bb hoặc aaB-. Các kiểu gene thuần chủng trong nhóm này chỉ là AAbb và aaBB, tức hai loại, không phải ba. Hoa đỏ thuần chủng chỉ AABB; hoa trắng chỉ aabb; hoa đỏ có bốn kiểu gene.",
+      "image": null,
+      "topic": "Bài 9. Mở rộng học thuyết Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 65,
+      "type": "mcq",
+      "question": "Câu 22<H>. Một loài thực vật, tính trạng chiều cao cây do 3 cặp gene A, a; B, b và  tương tác cộng gộp quy định, trong đó cứ có thêm 1 allele trội thì cây cao thêm . Cây thấp nhất có chiều cao 120 cm. Cây cao  có thể có kiểu gene nào sau đây?",
+      "options": [
+        "A. AABBdd.",
+        "B. aaBBDD.",
+        "C. AaBbDd.",
+        "D. AabbDd."
+      ],
+      "correct": "A. AABBdd.",
+      "explanation": "Đề gốc bị khuyết các giá trị sau cụm “cây cao thêm” và “Cây cao”, nên không thể xác định đáp án đúng duy nhất. Phương án A và B đều có 4 allele trội; các phương án C và D lần lượt có 3 và 2 allele trội. Cần khôi phục dữ kiện bị mất để kết luận. Trường correct chỉ được điền một phương án nguyên văn nhằm đáp ứng ràng buộc cấu trúc JSON, không khẳng định phương án A là đáp án đã được xác minh.",
+      "image": null,
+      "topic": "Bài 9. Mở rộng học thuyết Mendel",
+      "level": "VD"
+    },
+    {
+      "id": 66,
+      "type": "mcq",
+      "question": "Câu 23<H>. Ở một loài thực vật, chiều cao cây do 4 cặp gene không allele tác động cộng gộp quy định. Sự có mặt của mỗi allele trội làm chiều cao tăng 5cm, cây cao nhất có chiều cao 190cm. Các cây cao 170cm có thể có kiểu gene nào sau đây?",
+      "options": [
+        "A. AaBbddee; AabbDdEe.",
+        "B. AAbbddee; AabbddEe.",
+        "C. aaBbddEe; AaBbddEe.",
+        "D. AaBbDdEe; AABbddEe."
+      ],
+      "correct": "D. AaBbDdEe; AABbddEe.",
+      "explanation": "Cây cao nhất có 8 allele trội, nên chiều cao nền là 190 − 8×5 = 150 cm. Cây cao 170 cm cần 4 allele trội. Cả AaBbDdEe và AABbddEe đều có đúng 4 allele trội.",
+      "image": null,
+      "topic": "Bài 9. Mở rộng học thuyết Mendel",
+      "level": "VD"
+    }
+  ]
+}

@@ -1,0 +1,1286 @@
+{
+  "title": "Ôn tập Sinh học 12 (Bài 1 đến Bài 4)",
+  "subject": "Sinh học 12",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "Phân tử DNA mạch kép xoắn kép được cấu tạo theo nguyên tắc đa phân với các đơn phân là:",
+      "options": [
+        "A. Axit amin.",
+        "B. Nucleotide.",
+        "C. Axit béo.",
+        "D. Glucose."
+      ],
+      "correct": "B. Nucleotide.",
+      "explanation": "DNA được cấu tạo từ các nucleotide.",
+      "image": null,
+      "topic": "Cấu trúc DNA",
+      "level": "NB"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "Hai mạch đơn của phân tử DNA liên kết ngược chiều nhau qua các liên kết nào giữa các base nitơ?",
+      "options": [
+        "A. Liên kết phosphodiester.",
+        "B. Liên kết peptide.",
+        "C. Liên kết hydrogen.",
+        "D. Liên kết ion."
+      ],
+      "correct": "C. Liên kết hydrogen.",
+      "explanation": "Các base bổ sung trên hai mạch liên kết bằng hydrogen.",
+      "image": null,
+      "topic": "Cấu trúc DNA",
+      "level": "NB"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "Trong cơ chế tái bản DNA, enzyme đóng vai trò tháo xoắn và cắt các liên kết hydrogen là:",
+      "options": [
+        "A. DNA polymerase.",
+        "B. Helicase.",
+        "C. Ligase.",
+        "D. RNA polymerase."
+      ],
+      "correct": "B. Helicase.",
+      "explanation": "Helicase tháo xoắn DNA và phá vỡ liên kết hydrogen.",
+      "image": null,
+      "topic": "Nhân đôi DNA",
+      "level": "NB"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "Chiều tổng hợp mạch mới của enzyme DNA polymerase luôn là:",
+      "options": [
+        "A. 3' -> 5'.",
+        "B. 5' -> 3'.",
+        "C. Tùy ý theo cả hai chiều.",
+        "D. Chiều ngẫu nhiên."
+      ],
+      "correct": "B. 5' -> 3'.",
+      "explanation": "DNA polymerase chỉ kéo dài mạch mới theo chiều 5' đến 3'.",
+      "image": null,
+      "topic": "Nhân đôi DNA",
+      "level": "NB"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "Đoạn Okazaki được sinh ra trong quá trình tái bản DNA vì lý do nào sau đây?",
+      "options": [
+        "A. Do enzyme DNA polymerase chỉ tổng hợp mạch mới theo chiều 5' -> 3'.",
+        "B. Do DNA có quá nhiều liên kết hydrogen.",
+        "C. Do tốc độ tháo xoắn của DNA quá nhanh.",
+        "D. Do enzyme ligase hoạt động kém."
+      ],
+      "correct": "A. Do enzyme DNA polymerase chỉ tổng hợp mạch mới theo chiều 5' -> 3'.",
+      "explanation": "Mạch gián đoạn được tổng hợp thành các đoạn Okazaki.",
+      "image": null,
+      "topic": "Nhân đôi DNA",
+      "level": "TH"
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "question": "Quá trình tái bản DNA hoạt động theo những nguyên tắc nào?",
+      "options": [
+        "A. Nguyên tắc bổ sung và giữ lại một nửa (bán bảo tồn).",
+        "B. Nguyên tắc bảo tồn và bổ sung.",
+        "C. Nguyên tắc bổ sung và liên tục.",
+        "D. Nguyên tắc gián đoạn và đa phân."
+      ],
+      "correct": "A. Nguyên tắc bổ sung và giữ lại một nửa (bán bảo tồn).",
+      "explanation": "Mỗi DNA con gồm một mạch cũ và một mạch mới.",
+      "image": null,
+      "topic": "Nhân đôi DNA",
+      "level": "NB"
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "Trình tự nucleotide nào sau đây trên mạch khuôn DNA (3' -> 5') tương ứng với codon mở đầu 5'AUG3' trên mRNA?",
+      "options": [
+        "A. 3'TAX5'.",
+        "B. 5'TAX3'.",
+        "C. 3'ATG5'.",
+        "D. 5'ATG3'."
+      ],
+      "correct": "A. 3'TAX5'.",
+      "explanation": "Mạch khuôn bổ sung và ngược chiều với mRNA; X tương ứng C.",
+      "image": null,
+      "topic": "Phiên mã",
+      "level": "TH"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "Mã di truyền mang tính thoái hóa có nghĩa là gì?",
+      "options": [
+        "A. Nhiều bộ ba khác nhau cùng mã hóa cho một loại axit amin.",
+        "B. Một bộ ba mã hóa cho nhiều loại axit amin.",
+        "C. Tất cả các loài sinh vật đều dùng chung một bảng mã.",
+        "D. Mã được đọc liên tục từ một điểm xác định."
+      ],
+      "correct": "A. Nhiều bộ ba khác nhau cùng mã hóa cho một loại axit amin.",
+      "explanation": "Nhiều codon có thể cùng mã hóa một amino acid.",
+      "image": null,
+      "topic": "Mã di truyền",
+      "level": "NB"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "Điểm nào dưới đây thể hiện tính phổ biến của mã di truyền?",
+      "options": [
+        "A. Hầu hết các loài sinh vật từ nhân sơ đến nhân thực đều dùng chung một bảng mã di truyền.",
+        "B. Một bộ ba chỉ mã hóa cho một axit amin cụ thể.",
+        "C. Có nhiều axit amin được mã hóa bởi nhiều bộ ba.",
+        "D. Mã mở đầu luôn mã hóa cho axit amin Methionine ở sinh vật nhân thực."
+      ],
+      "correct": "A. Hầu hết các loài sinh vật từ nhân sơ đến nhân thực đều dùng chung một bảng mã di truyền.",
+      "explanation": "Phần lớn sinh vật sử dụng chung bảng mã di truyền.",
+      "image": null,
+      "topic": "Mã di truyền",
+      "level": "NB"
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "Quá trình phiên mã ở sinh vật nhân thực diễn ra ở đâu?",
+      "options": [
+        "A. Tế bào chất.",
+        "B. Nhân tế bào.",
+        "C. Ribosome.",
+        "D. Màng sinh chất."
+      ],
+      "correct": "B. Nhân tế bào.",
+      "explanation": "Ở sinh vật nhân thực, phiên mã diễn ra chủ yếu trong nhân.",
+      "image": null,
+      "topic": "Phiên mã",
+      "level": "NB"
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "Enzyme chính thực hiện xúc tác cho quá trình phiên mã tạo RNA là:",
+      "options": [
+        "A. DNA polymerase.",
+        "B. Helicase.",
+        "C. RNA polymerase.",
+        "D. Ligase."
+      ],
+      "correct": "C. RNA polymerase.",
+      "explanation": "RNA polymerase tổng hợp mạch RNA dựa trên mạch khuôn DNA.",
+      "image": null,
+      "topic": "Phiên mã",
+      "level": "NB"
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "Mạch khuôn dùng để phiên mã tạo RNA là mạch nào của gene?",
+      "options": [
+        "A. Mạch có chiều 3' -> 5'.",
+        "B. Mạch có chiều 5' -> 3'.",
+        "C. Cả hai mạch đều làm khuôn đồng thời.",
+        "D. Mạch bất kì tùy vào giai đoạn phát triển."
+      ],
+      "correct": "A. Mạch có chiều 3' -> 5'.",
+      "explanation": "RNA polymerase đọc mạch khuôn theo chiều 3' đến 5'.",
+      "image": null,
+      "topic": "Phiên mã",
+      "level": "TH"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "Ở sinh vật nhân thực, mARN sơ khai sau phiên mã phải trải qua quá trình nào để thành mARN trưởng thành?",
+      "options": [
+        "A. Cắt bỏ exon, nối các intron.",
+        "B. Cắt bỏ intron, nối các exon.",
+        "C. Thay thế các nucleotide gốc.",
+        "D. Nhân đôi mạch đơn."
+      ],
+      "correct": "B. Cắt bỏ intron, nối các exon.",
+      "explanation": "Quá trình xử lí loại intron và nối các exon.",
+      "image": null,
+      "topic": "Phiên mã",
+      "level": "NB"
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "Quá trình dịch mã diễn ra tại bào quan nào trong tế bào chất?",
+      "options": [
+        "A. Ti thể.",
+        "B. Ribosome.",
+        "C. Lưới nội chất trơn.",
+        "D. Bộ máy Golgi."
+      ],
+      "correct": "B. Ribosome.",
+      "explanation": "Ribosome là nơi tổng hợp chuỗi polypeptide.",
+      "image": null,
+      "topic": "Dịch mã",
+      "level": "NB"
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "question": "Phân tử nào mang bộ ba đối mã (anticodon) đến khớp bổ sung với codon trên mRNA?",
+      "options": [
+        "A. tRNA.",
+        "B. rRNA.",
+        "C. DNA.",
+        "D. Protein."
+      ],
+      "correct": "A. tRNA.",
+      "explanation": "tRNA mang anticodon và amino acid tương ứng.",
+      "image": null,
+      "topic": "Dịch mã",
+      "level": "NB"
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "question": "Liên kết hình thành giữa các axit amin kế tiếp nhau trong chuỗi polypeptide là:",
+      "options": [
+        "A. Liên kết hydrogen.",
+        "B. Liên kết peptide.",
+        "C. Liên kết este.",
+        "D. Liên kết phosphodiester."
+      ],
+      "correct": "B. Liên kết peptide.",
+      "explanation": "Các amino acid nối với nhau bằng liên kết peptide.",
+      "image": null,
+      "topic": "Dịch mã",
+      "level": "NB"
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "Bộ ba nào sau đây đóng vai trò kết thúc quá trình dịch mã và không mã hóa axit amin?",
+      "options": [
+        "A. 5'AUG3'.",
+        "B. 5'UAA3'.",
+        "C. 5'UGG3'.",
+        "D. 5'AAU3'."
+      ],
+      "correct": "B. 5'UAA3'.",
+      "explanation": "UAA là một trong ba codon kết thúc.",
+      "image": null,
+      "topic": "Mã di truyền",
+      "level": "NB"
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "question": "Tập hợp nhiều ribosome cùng trượt trên một phân tử mARN được gọi là:",
+      "options": [
+        "A. Nucleosome.",
+        "B. Polyribosome (Polysome).",
+        "C. Operon.",
+        "D. Phức hệ phiên mã."
+      ],
+      "correct": "B. Polyribosome (Polysome).",
+      "explanation": "Một mRNA có thể được nhiều ribosome dịch mã đồng thời.",
+      "image": null,
+      "topic": "Dịch mã",
+      "level": "NB"
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "Ở vi khuẩn E. coli, các gene cấu trúc Z, Y, A trong Operon Lac điều hòa tổng hợp enzyme để phân hủy chất nào?",
+      "options": [
+        "A. Glucose.",
+        "B. Lactose.",
+        "C. Sucrose.",
+        "D. Galactose."
+      ],
+      "correct": "B. Lactose.",
+      "explanation": "Các enzyme của operon lac tham gia chuyển hóa lactose.",
+      "image": null,
+      "topic": "Điều hòa gene",
+      "level": "NB"
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "Trong mô hình Operon Lac, protein ức chế do gene điều hòa tổng hợp sẽ bám vào vị trí nào khi môi trường không có lactose?",
+      "options": [
+        "A. Vùng khởi động (P).",
+        "B. Vùng vận hành (O).",
+        "C. Gene cấu trúc Z.",
+        "D. Gene điều hòa (R)."
+      ],
+      "correct": "B. Vùng vận hành (O).",
+      "explanation": "Protein ức chế gắn vùng vận hành để ngăn phiên mã gene cấu trúc.",
+      "image": null,
+      "topic": "Điều hòa gene",
+      "level": "NB"
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "Vùng khởi động (P - Promoter) của Operon Lac là nơi liên kết của cấu trúc nào?",
+      "options": [
+        "A. Protein ức chế.",
+        "B. Enzyme RNA polymerase.",
+        "C. Đường lactose.",
+        "D. Axit amin mở đầu."
+      ],
+      "correct": "B. Enzyme RNA polymerase.",
+      "explanation": "RNA polymerase nhận biết và bám vào promoter.",
+      "image": null,
+      "topic": "Điều hòa gene",
+      "level": "NB"
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "Vai trò của chất cảm ứng lactose trong cơ chế điều hòa hoạt động của Operon Lac là gì?",
+      "options": [
+        "A. Gắn vào protein ức chế làm nó biến đổi cấu hình và bất hoạt.",
+        "B. Gắn vào vùng khởi động để kích hoạt phiên mã.",
+        "C. Phá hủy gene điều hòa để ngăn chặn tổng hợp protein ức chế.",
+        "D. Liên kết trực tiếp vào enzyme RNA polymerase."
+      ],
+      "correct": "A. Gắn vào protein ức chế làm nó biến đổi cấu hình và bất hoạt.",
+      "explanation": "Lactose (chất cảm ứng) làm protein ức chế mất khả năng gắn operator.",
+      "image": null,
+      "topic": "Điều hòa gene",
+      "level": "TH"
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "question": "Đột biến gene là những biến đổi trong cấu trúc của gene, thường liên quan đến bao nhiêu cặp nucleotide?",
+      "options": [
+        "A. Một hoặc một vài cặp nucleotide.",
+        "B. Toàn bộ các cặp nucleotide của nhiễm sắc thể.",
+        "C. Ít nhất là 100 cặp nucleotide trở lên.",
+        "D. Chỉ xảy ra ở vùng intron không mã hóa."
+      ],
+      "correct": "A. Một hoặc một vài cặp nucleotide.",
+      "explanation": "Đột biến gene thường liên quan đến một hoặc một vài cặp nucleotide.",
+      "image": null,
+      "topic": "Đột biến gene",
+      "level": "NB"
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "Cá thể mang gene đột biến đã biểu hiện ra kiểu hình được gọi là gì?",
+      "options": [
+        "A. Thể đột biến.",
+        "B. Thể dị hợp.",
+        "C. Thể đồng hợp.",
+        "D. Biến dị tổ hợp."
+      ],
+      "correct": "A. Thể đột biến.",
+      "explanation": "Thể đột biến là cá thể mang đột biến đã biểu hiện ra kiểu hình.",
+      "image": null,
+      "topic": "Đột biến gene",
+      "level": "NB"
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "question": "Hóa chất 5-Bromouracil (5-BU) thấm vào tế bào thường gây ra dạng đột biến điểm cụ thể nào?",
+      "options": [
+        "A. Thay thế cặp A-T bằng cặp G-X.",
+        "B. Thay thế cặp G-X bằng cặp A-T.",
+        "C. Mất một cặp A-T.",
+        "D. Thêm một cặp G-X."
+      ],
+      "correct": "A. Thay thế cặp A-T bằng cặp G-X.",
+      "explanation": "5-BU là chất tương tự thymine, có thể gây chuyển cặp A-T thành G-X.",
+      "image": null,
+      "topic": "Đột biến gene",
+      "level": "TH"
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "question": "Dạng đột biến điểm nào dưới đây làm dịch khung đọc mã di truyền kể từ vị trí đột biến về sau?",
+      "options": [
+        "A. Thay thế cặp A-T bằng G-X.",
+        "B. Mất hoặc thêm một cặp nucleotide.",
+        "C. Thay thế cặp G-X bằng X-G.",
+        "D. Thay thế cặp nucleotide này bằng cặp cùng loại."
+      ],
+      "correct": "B. Mất hoặc thêm một cặp nucleotide.",
+      "explanation": "Thêm hoặc mất một nucleotide làm thay đổi khung đọc nếu không theo bội số của ba.",
+      "image": null,
+      "topic": "Đột biến gene",
+      "level": "NB"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "question": "Vì sao đột biến thay thế một cặp nucleotide ở vị trí giữa gene thường ít gây hậu quả nghiêm trọng hơn đột biến mất cặp nucleotide?",
+      "options": [
+        "A. Vì nó không làm thay đổi tổng số lượng nucleotide và khung đọc mã di truyền phía sau.",
+        "B. Vì nó luôn biến bộ ba mã hóa thành bộ ba kết thúc.",
+        "C. Vì nó làm tăng chiều dài của gene.",
+        "D. Vì cơ thể sinh vật có thể tự sửa lỗi 100% dạng này."
+      ],
+      "correct": "A. Vì nó không làm thay đổi tổng số lượng nucleotide và khung đọc mã di truyền phía sau.",
+      "explanation": "Thay thế không làm dịch khung đọc; ảnh hưởng thường khu trú ở codon bị tác động.",
+      "image": null,
+      "topic": "Đột biến gene",
+      "level": "TH"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "question": "Đột biến gene được coi là nguồn nguyên liệu sơ cấp cho quá trình tiến hóa vì:",
+      "options": [
+        "A. Nó tạo ra các allele mới, làm phong phú vốn gene của quần thể.",
+        "B. Nó làm tăng số lượng nhiễm sắc thể trong tế bào.",
+        "C. Nó luôn tạo ra các kiểu hình có lợi cho sinh vật.",
+        "D. Nó giúp sinh vật nhân đôi DNA nhanh hơn."
+      ],
+      "correct": "A. Nó tạo ra các allele mới, làm phong phú vốn gene của quần thể.",
+      "explanation": "Đột biến tạo allele mới, cung cấp biến dị di truyền cho tiến hóa.",
+      "image": null,
+      "topic": "Đột biến gene",
+      "level": "NB"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "question": "Base nitơ dạng hiếm (A*) có thể gây đột biến điểm dạng nào sau đây qua cơ chế nhân đôi DNA?",
+      "options": [
+        "A. Thay thế cặp A-T bằng G-X.",
+        "B. Thêm một cặp nucleotide.",
+        "C. Mất một cặp nucleotide.",
+        "D. Thay thế cặp G-X bằng A-T."
+      ],
+      "correct": "A. Thay thế cặp A-T bằng G-X.",
+      "explanation": "Dạng hiếm có thể bắt cặp sai, dẫn đến thay thế cặp base.",
+      "image": null,
+      "topic": "Đột biến gene",
+      "level": "TH"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "question": "Đột biến đồng nghĩa (silent mutation) là hiện tượng đột biến gene làm thay đổi nucleotide nhưng chuỗi polypeptide không bị thay đổi vì:",
+      "options": [
+        "A. Do mã di truyền có tính thoái hóa, bộ ba mới mã hóa cho cùng một loại axit amin.",
+        "B. Do bộ ba mới biến thành bộ ba kết thúc.",
+        "C. Do đột biến xảy ra ở vùng vận hành.",
+        "D. Do protein được tổng hợp bị phân hủy ngay."
+      ],
+      "correct": "A. Do mã di truyền có tính thoái hóa, bộ ba mới mã hóa cho cùng một loại axit amin.",
+      "explanation": "Tính thoái hóa cho phép các codon khác nhau cùng mã hóa một amino acid.",
+      "image": null,
+      "topic": "Đột biến gene",
+      "level": "TH"
+    },
+    {
+      "id": 31,
+      "type": "true_false",
+      "question": "Khi nói về quá trình nhân đôi DNA ở sinh vật nhân sơ: - Ý a: Quá trình này diễn ra theo nguyên tắc bổ sung và nguyên tắc bán bảo tồn.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Đúng",
+      "explanation": "Nhân đôi DNA tuân theo nguyên tắc bổ sung và bán bảo tồn.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 32,
+      "type": "true_false",
+      "question": "Khi nói về quá trình nhân đôi DNA ở sinh vật nhân sơ: - Ý b: Mạch mới được kéo dài liên tục luôn có mạch khuôn với chiều 5' -> 3'.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Sai",
+      "explanation": "DNA polymerase đọc mạch khuôn theo chiều 3' đến 5'.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 33,
+      "type": "true_false",
+      "question": "Khi nói về quá trình nhân đôi DNA ở sinh vật nhân sơ: - Ý c: Enzyme ligase làm nhiệm vụ tháo xoắn phân tử DNA.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Sai",
+      "explanation": "Helicase tháo xoắn; ligase nối các đoạn DNA.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 34,
+      "type": "true_false",
+      "question": "Khi nói về quá trình nhân đôi DNA ở sinh vật nhân sơ: - Ý d: Sau k lần nhân đôi từ 1 phân tử ban đầu, số phân tử DNA hoàn toàn chứa mạch mới là 2^k - 2.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Đúng",
+      "explanation": "Sau k lần nhân đôi, có 2^k phân tử; 2 phân tử còn chứa mạch gốc ban đầu, nên 2^k - 2 phân tử chỉ gồm mạch mới.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 35,
+      "type": "true_false",
+      "question": "Khi nói về đặc điểm của mã di truyền và quá trình phiên mã: - Ý a: Bộ ba mở đầu 5'AUG3' quy định mã hóa axit amin Formylmethionine ở mọi sinh vật.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Sai",
+      "explanation": "Ở sinh vật nhân sơ, amino acid mở đầu thường là formylmethionine; ở sinh vật nhân thực là methionine.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 36,
+      "type": "true_false",
+      "question": "Khi nói về đặc điểm của mã di truyền và quá trình phiên mã: - Ý b: Quá trình phiên mã chỉ cần một mạch khuôn của gene làm bản mẫu tổng hợp RNA.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Đúng",
+      "explanation": "Mỗi gene sử dụng một mạch làm khuôn phiên mã.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 37,
+      "type": "true_false",
+      "question": "Khi nói về đặc điểm của mã di truyền và quá trình phiên mã: - Ý c: Tính đặc hiệu của mã di truyền có nghĩa là một bộ ba chỉ mã hóa cho duy nhất một loại axit amin",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Đúng",
+      "explanation": "Mỗi codon chỉ quy định một amino acid hoặc tín hiệu kết thúc.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 38,
+      "type": "true_false",
+      "question": "Khi nói về đặc điểm của mã di truyền và quá trình phiên mã: - Ý d: Quá trình phiên mã ở sinh vật nhân sơ tạo ra mARN sơ khai chứa các đoạn mã hóa intron.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Sai",
+      "explanation": "Gene ở sinh vật nhân sơ nhìn chung không có intron cần cắt nối trong mRNA.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 39,
+      "type": "true_false",
+      "question": "Xem xét mô hình điều hòa hoạt động của Operon Lac ở vi khuẩn E. coli: - Ý a: Gene điều hòa (R) thuộc cấu trúc thành phần chính bên trong Operon Lac.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Sai",
+      "explanation": "Gene điều hòa nằm ngoài cấu trúc operon lac.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 40,
+      "type": "true_false",
+      "question": "Xem xét mô hình điều hòa hoạt động của Operon Lac ở vi khuẩn E. coli: - Ý b: Khi môi trường không có lactose, protein ức chế sẽ bám vào vùng khởi động (P) để chặn enzyme phiên mã",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Sai",
+      "explanation": "Protein ức chế gắn vào vùng vận hành O.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 41,
+      "type": "true_false",
+      "question": "Xem xét mô hình điều hòa hoạt động của Operon Lac ở vi khuẩn E. coli: - Ý c: Khi môi trường có đường lactose, phân tử đường này liên kết với protein ức chế làm mất hoạt tính của nó.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Đúng",
+      "explanation": "Chất cảm ứng làm protein ức chế mất khả năng gắn operator.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 42,
+      "type": "true_false",
+      "question": "Xem xét mô hình điều hòa hoạt động của Operon Lac ở vi khuẩn E. coli: - Ý d: Nếu xảy ra đột biến mất vùng vận hành (O), các gene cấu trúc Z, Y, A sẽ phiên mã liên tục kể cả khi không có đường.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Đúng",
+      "explanation": "Mất operator khiến protein ức chế không thể bám để ngăn phiên mã.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 43,
+      "type": "true_false",
+      "question": "Khi nói về các dạng đột biến điểm xảy ra trong cấu trúc của một gene: - Ý a: Đột biến điểm chỉ ảnh hưởng tối đa liên quan tới một cặp nucleotide trong gene.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Sai",
+      "explanation": "Đột biến gene có thể liên quan đến một hoặc một vài cặp nucleotide.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 44,
+      "type": "true_false",
+      "question": "Khi nói về các dạng đột biến điểm xảy ra trong cấu trúc của một gene: - Ý b: Đột biến thêm một cặp nucleotide sẽ làm dịch khung đọc từ vị trí xảy ra đột biến về sau.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Đúng",
+      "explanation": "Thêm một cặp làm lệch khung đọc ở các bộ ba phía sau.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 45,
+      "type": "true_false",
+      "question": "Khi nói về các dạng đột biến điểm xảy ra trong cấu trúc của một gene: - Ý c: Đột biến thay thế cặp nucleotide luôn làm thay đổi toàn bộ trình tự axit amin của chuỗi protein",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Sai",
+      "explanation": "Thay thế có thể không đổi amino acid hoặc chỉ ảnh hưởng một amino acid; không nhất thiết làm đổi toàn bộ chuỗi.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 46,
+      "type": "true_false",
+      "question": "Khi nói về các dạng đột biến điểm xảy ra trong cấu trúc của một gene: - Ý d: Đột biến gene luôn biểu hiện ra kiểu hình ở ngay thế hệ đầu tiên xuất hiện đột biến.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Sai",
+      "explanation": "Đột biến có thể lặn, không biểu hiện ngay hoặc không biểu hiện kiểu hình.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 47,
+      "type": "true_false",
+      "question": "Về cơ chế phát sinh đột biến gene và vai trò của nó: - Ý a: Tác nhân hóa học 5-BU gây ra đột biến thay thế cặp G-X bằng cặp A-T.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Sai",
+      "explanation": "5-BU thường gây chuyển cặp A-T thành G-X.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 48,
+      "type": "true_false",
+      "question": "Về cơ chế phát sinh đột biến gene và vai trò của nó: - Ý b: Các base nitơ dạng hiếm có thể phát sinh sai sót cặp đôi bổ sung ngẫu nhiên trong nhân đôi DNA",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Đúng",
+      "explanation": "Dạng hiếm có thể bắt cặp sai trong quá trình nhân đôi.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 49,
+      "type": "true_false",
+      "question": "Về cơ chế phát sinh đột biến gene và vai trò của nó: - Ý c: Đột biến gene là nguồn nguyên liệu sơ cấp, đóng vai trò quan trọng đối với tiến hóa.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Đúng",
+      "explanation": "Đột biến tạo allele mới, cung cấp biến dị di truyền.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 50,
+      "type": "true_false",
+      "question": "Về cơ chế phát sinh đột biến gene và vai trò của nó: - Ý d: Mọi đột biến gene xảy ra trong tế bào sinh dưỡng (soma) đều di truyền trực tiếp qua sinh sản hữu tính.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Sai",
+      "explanation": "Đột biến tế bào sinh dưỡng thường không truyền qua giao tử.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 51,
+      "type": "true_false",
+      "question": "Về cấu trúc phân tử DNA mạch kép xoắn kép: - Ý a: Tỉ lệ (A + T) / (G + X) luôn bằng 1 ở mọi phân tử DNA mạch kép.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Sai",
+      "explanation": "Tỉ lệ này thay đổi tùy thành phần base của từng DNA.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 52,
+      "type": "true_false",
+      "question": "Về cấu trúc phân tử DNA mạch kép xoắn kép: - Ý b: Hai mạch đơn liên kết song song cùng chiều 5' -> 3'.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Sai",
+      "explanation": "Hai mạch DNA ngược chiều nhau.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 53,
+      "type": "true_false",
+      "question": "Về cấu trúc phân tử DNA mạch kép xoắn kép: - Ý c: Khoảng cách giữa hai mạch đơn luôn cố định nhờ các cặp base nitơ lớn - nhỏ bổ sung xen kẽ.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Đúng",
+      "explanation": "A-T và G-X đều gồm một purine và một pyrimidine.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 54,
+      "type": "true_false",
+      "question": "Về cấu trúc phân tử DNA mạch kép xoắn kép: - Ý d: Liên kết phosphodiester là liên kết bền vững nối giữa các nucleotide trên cùng một mạch đơn.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Đúng",
+      "explanation": "Liên kết phosphodiester nối các nucleotide trên cùng mạch.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 55,
+      "type": "true_false",
+      "question": "Khi nói về các loại phân tử RNA trong tế bào: - Ý a: mRNA làm nhiệm vụ truyền đạt thông tin di truyền từ gene tới ribosome để dịch mã. ->",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Đúng",
+      "explanation": "mRNA mang thông tin mã hóa đến ribosome.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 56,
+      "type": "true_false",
+      "question": "Khi nói về các loại phân tử RNA trong tế bào: - Ý b: tRNA có cấu trúc mạch đơn xoắn cục bộ tạo nên các thùy tròn, trong đó có đầu mang bộ ba đối mã.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Đúng",
+      "explanation": "tRNA có cấu trúc gấp cuộn và mang anticodon.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 57,
+      "type": "true_false",
+      "question": "Khi nói về các loại phân tử RNA trong tế bào: - Ý c: rRNA kết hợp với protein để tạo nên cấu trúc của Ribosome.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Đúng",
+      "explanation": "rRNA cùng protein cấu thành ribosome.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 58,
+      "type": "true_false",
+      "question": "Khi nói về các loại phân tử RNA trong tế bào: - Ý d: Tất cả các loại RNA đều có cấu trúc mạch kép dài thẳng tương tự như DNA",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Sai",
+      "explanation": "RNA thường là mạch đơn, có thể xoắn cục bộ.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 59,
+      "type": "true_false",
+      "question": "Khi nói về quá trình dịch mã tổng hợp protein: - Ý a: Ribosome dịch chuyển trên phân tử mRNA theo chiều từ 3' -> 5'.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Sai",
+      "explanation": "Ribosome di chuyển dọc mRNA theo chiều 5' đến 3'.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 60,
+      "type": "true_false",
+      "question": "Khi nói về quá trình dịch mã tổng hợp protein: - Ý b: Axit amin mở đầu chuỗi polypeptide ở sinh vật nhân thực là Methionine.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Đúng",
+      "explanation": "Ở sinh vật nhân thực, amino acid mở đầu là methionine.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 61,
+      "type": "true_false",
+      "question": "Khi nói về quá trình dịch mã tổng hợp protein: - Ý c: Giai đoạn dịch mã sử dụng năng lượng ATP để hoạt hóa axit amin và gắn vào tRNA.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Đúng",
+      "explanation": "Amino acid được hoạt hóa nhờ ATP trước khi gắn vào tRNA.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 62,
+      "type": "true_false",
+      "question": "Khi nói về quá trình dịch mã tổng hợp protein: - Ý d: Sau khi hoàn thành dịch mã, chuỗi polypeptide giữ nguyên axit amin mở đầu để thực hiện chức năng sinh học",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Sai",
+      "explanation": "Amino acid mở đầu có thể bị cắt bỏ trong quá trình hoàn thiện protein.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 63,
+      "type": "true_false",
+      "question": "Xét hiện tượng đột biến gene làm xuất hiện bộ ba kết thúc sớm: - Ý a: Hiện tượng này làm chuỗi polypeptide bị ngắn lại so với bình thường",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Đúng",
+      "explanation": "Dịch mã dừng sớm nên chuỗi polypeptide ngắn hơn.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 64,
+      "type": "true_false",
+      "question": "Xét hiện tượng đột biến gene làm xuất hiện bộ ba kết thúc sớm: - Ý b: Đây là hậu quả của dạng đột biến thay thế hoặc đột biến dịch khung đọc.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Đúng",
+      "explanation": "Cả thay thế tạo codon kết thúc và dịch khung đều có thể tạo stop sớm.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 65,
+      "type": "true_false",
+      "question": "Xét hiện tượng đột biến gene làm xuất hiện bộ ba kết thúc sớm: - Ý c: Cấu trúc không gian của protein bị thay đổi hoàn toàn dẫn tới mất chức năng sinh học.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Sai",
+      "explanation": "Hậu quả phụ thuộc vị trí và mức độ; không phải luôn luôn thay đổi hoàn toàn.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 66,
+      "type": "true_false",
+      "question": "Xét hiện tượng đột biến gene làm xuất hiện bộ ba kết thúc sớm: - Ý d: Đột biến này chắc chắn luôn làm tăng số liên kết hydrogen của gene ban đầu.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Sai",
+      "explanation": "Không thể kết luận số liên kết hydrogen luôn tăng.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 67,
+      "type": "true_false",
+      "question": "Về hệ gene và cơ chế biểu hiện gene: - Ý a: Hệ gene của sinh vật nhân sơ bao gồm toàn bộ DNA vùng nhân và plasmid.",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Đúng",
+      "explanation": "Hệ gene có thể bao gồm DNA vùng nhân và DNA ngoài nhiễm sắc thể như plasmid.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 68,
+      "type": "true_false",
+      "question": "Về hệ gene và cơ chế biểu hiện gene: - Ý b: Mọi gene trong tế bào luôn luôn thực hiện phiên mã và dịch mã với số lần bằng nhau",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Sai",
+      "explanation": "Gene được điều hòa và có mức độ biểu hiện khác nhau.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 69,
+      "type": "true_false",
+      "question": "Về hệ gene và cơ chế biểu hiện gene: - Ý c: Sự phân hóa tế bào ở sinh vật đa bào là do các tế bào biểu hiện các nhóm gene khác nhau",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Đúng",
+      "explanation": "Các loại tế bào khác nhau biểu hiện những nhóm gene khác nhau.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 70,
+      "type": "true_false",
+      "question": "Về hệ gene và cơ chế biểu hiện gene: - Ý d: Cơ chế điều hòa hoạt động của gene giúp sinh vật tiết kiệm tối đa nguồn năng lượng và vật chất",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correct": "Đúng",
+      "explanation": "Điều hòa gene giúp tế bào chỉ tổng hợp sản phẩm khi cần.",
+      "image": null,
+      "topic": "Di truyền phân tử",
+      "level": "TH"
+    },
+    {
+      "id": 71,
+      "type": "short",
+      "question": "Một gene có chiều dài 4080 Angstrom. Tổng số bộ ba mã hóa trên phân tử mARN được phiên mã từ gene này (kể cả bộ ba kết thúc) là bao nhiêu?",
+      "correct": "400",
+      "explanation": "4080/3,4 = 1200 cặp nucleotide; mRNA có 1200 nucleotide, tương ứng 400 bộ ba.",
+      "image": null,
+      "topic": "Phiên mã và mã di truyền",
+      "level": "VD"
+    },
+    {
+      "id": 72,
+      "type": "short",
+      "question": "Một gene mạch kép có tổng số 3000 nucleotide, trong đó có 600 nucleotide loại A. Số liên kết hydrogen của gene này là bao nhiêu?",
+      "correct": "3900",
+      "explanation": "A=T=600; G=X=(3000-1200)/2=900. H=2×600+3×900=3900.",
+      "image": null,
+      "topic": "Cấu trúc DNA",
+      "level": "VD"
+    },
+    {
+      "id": 73,
+      "type": "short",
+      "question": "Phân tử mARN trưởng thành có 1500 nucleotide. Chiều dài của gene cấu trúc mã hóa cho mARN này ở sinh vật nhân sơ là bao nhiêu Angstrom?",
+      "correct": "2550 Å",
+      "explanation": "Gene có 1500 cặp nucleotide; chiều dài = 1500×3,4 = 5100 Å. Lưu ý mRNA 1500 nucleotide được phiên mã từ một mạch DNA, nên gene dài 1500 cặp nucleotide, kết quả 5100 Å.",
+      "image": null,
+      "topic": "Phiên mã",
+      "level": "VD"
+    },
+    {
+      "id": 74,
+      "type": "short",
+      "question": "Một phân tử DNA nhân đôi liên tiếp 5 lần. Hỏi có bao nhiêu phân tử DNA con tạo ra hoàn toàn từ nguyên liệu môi trường cung cấp (không chứa mạch gốc ban đầu)?",
+      "correct": "30",
+      "explanation": "Sau 5 lần có 2^5=32 phân tử; 2 phân tử còn giữ mạch gốc ban đầu, nên 30 phân tử hoàn toàn gồm mạch mới.",
+      "image": null,
+      "topic": "Nhân đôi DNA",
+      "level": "VD"
+    },
+    {
+      "id": 75,
+      "type": "short",
+      "question": "Có bao nhiêu bộ ba mã di truyền trên phân tử mARN trực tiếp tham gia mã hóa axit amin (không tính các bộ ba kết thúc)?",
+      "correct": "Không xác định nếu chưa biết chiều dài mRNA",
+      "explanation": "Đề không cung cấp chiều dài hoặc trình tự mRNA nên không thể xác định số codon mã hóa amino acid.",
+      "image": null,
+      "topic": "Mã di truyền",
+      "level": "VD"
+    },
+    {
+      "id": 76,
+      "type": "short",
+      "question": "Chuỗi polypeptide hoàn chỉnh (đã cắt bỏ axit amin mở đầu) chứa 298 axit amin. Số bộ ba có trên phân tử mARN tương ứng mã hóa cho chuỗi này là bao nhiêu?",
+      "correct": "300",
+      "explanation": "298 amino acid sau khi cắt bỏ amino acid mở đầu tương ứng chuỗi ban đầu 299 amino acid; cộng 1 codon kết thúc là 300 codon.",
+      "image": null,
+      "topic": "Dịch mã",
+      "level": "VD"
+    },
+    {
+      "id": 77,
+      "type": "short",
+      "question": "Một gene đột biến điểm làm giảm đi 2 liên kết hydrogen nhưng chiều dài của gene không đổi. Đây là dạng đột biến thay thế cặp nucleotide nào bằng cặp nào?",
+      "correct": "Không có dạng thay thế một cặp base đơn lẻ phù hợp",
+      "explanation": "Thay thế A-T bằng G-X làm tăng 1 liên kết H; thay thế G-X bằng A-T làm giảm 1 liên kết H, không thể giảm 2 chỉ với một cặp thay thế.",
+      "image": null,
+      "topic": "Đột biến gene",
+      "level": "VD"
+    },
+    {
+      "id": 78,
+      "type": "short",
+      "question": "Một gene có 900 nucleotide loại G. Sau đột biến thay thế một cặp nucleotide, số liên kết hydrogen của gene tăng thêm 1 liên kết. Số nucleotide loại G của gene đột biến là bao nhiêu?",
+      "correct": "901",
+      "explanation": "Tăng 1 liên kết H là thay cặp A-T bằng G-X, làm số G tăng thêm 1.",
+      "image": null,
+      "topic": "Đột biến gene",
+      "level": "VD"
+    },
+    {
+      "id": 79,
+      "type": "short",
+      "question": "Trong mô hình Operon Lac ở vi khuẩn E. coli, có bao nhiêu loại gene cấu trúc xếp kề nhau cùng chịu sự chi phối kiểm soát của một vùng vận hành?",
+      "correct": "3",
+      "explanation": "Operon Lac có ba gene cấu trúc Z, Y, A.",
+      "image": null,
+      "topic": "Điều hòa gene",
+      "level": "NB"
+    },
+    {
+      "id": 80,
+      "type": "short",
+      "question": "Một phân tử DNA chứa toàn bộ N15 chuyển sang môi trường N14 nhân đôi 3 lần. Số mạch đơn chứa N15 trong tổng số mạch thu được sau quá trình là bao nhiêu?",
+      "correct": "2",
+      "explanation": "Theo cơ chế bán bảo tồn, hai mạch gốc chứa N15 vẫn tồn tại trong hai phân tử DNA con; số mạch N15 là 2.",
+      "image": null,
+      "topic": "Nhân đôi DNA",
+      "level": "VD"
+    },
+    {
+      "id": 81,
+      "type": "short",
+      "question": "Bài tập 1: Bài toán Nhân đôi DNA trong môi trường đồng vị phóng xạ N15/N14. Đề bài: Một phân tử DNA vùng nhân của vi khuẩn E. coli chứa toàn bộ các mạch đơn gồm đồng vị phóng xạ N15. Người ta chuyển vi khuẩn này sang nuôi cấy trong môi trường chỉ chứa đồng vị N14. Sau khi vi khuẩn này trải qua 5 lần nhân đôi liên tiếp, thu được các phân tử DNA con. a) Tính tổng số phân tử DNA con tạo thành.",
+      "correct": "32",
+      "explanation": "Một phân tử nhân đôi 5 lần tạo 2^5=32 phân tử DNA.",
+      "image": null,
+      "topic": "Bài tập vận dụng tổng hợp",
+      "level": "VD"
+    },
+    {
+      "id": 82,
+      "type": "short",
+      "question": "Bài tập 1: Bài toán Nhân đôi DNA trong môi trường đồng vị phóng xạ N15/N14. Đề bài: Một phân tử DNA vùng nhân của vi khuẩn E. coli chứa toàn bộ các mạch đơn gồm đồng vị phóng xạ N15. Người ta chuyển vi khuẩn này sang nuôi cấy trong môi trường chỉ chứa đồng vị N14. Sau khi vi khuẩn này trải qua 5 lần nhân đôi liên tiếp, thu được các phân tử DNA con. b) Có bao nhiêu phân tử DNA con chứa cả hai mạch hoàn toàn bằng N14?",
+      "correct": "30",
+      "explanation": "Hai phân tử còn chứa mạch N15; 32−2=30 phân tử có cả hai mạch N14.",
+      "image": null,
+      "topic": "Bài tập vận dụng tổng hợp",
+      "level": "VD"
+    },
+    {
+      "id": 83,
+      "type": "short",
+      "question": "Bài tập 1: Bài toán Nhân đôi DNA trong môi trường đồng vị phóng xạ N15/N14. Đề bài: Một phân tử DNA vùng nhân của vi khuẩn E. coli chứa toàn bộ các mạch đơn gồm đồng vị phóng xạ N15. Người ta chuyển vi khuẩn này sang nuôi cấy trong môi trường chỉ chứa đồng vị N14. Sau khi vi khuẩn này trải qua 5 lần nhân đôi liên tiếp, thu được các phân tử DNA con. c) Có bao nhiêu phân tử DNA con chứa mạch đơn có N15?",
+      "correct": "2",
+      "explanation": "Hai mạch N15 ban đầu được bảo tồn, mỗi mạch nằm trong một phân tử DNA con.",
+      "image": null,
+      "topic": "Bài tập vận dụng tổng hợp",
+      "level": "VD"
+    },
+    {
+      "id": 84,
+      "type": "short",
+      "question": "Bài tập 2: Bài toán Tính số liên kết và số lượng nucleotide của Gene. Đề bài: Một gene cấu trúc có chiều dài 4080 Angstrom và có tỉ lệ số nucleotide loại A chiếm 15% tổng số nucleotide của gene. a) Tính tổng số nucleotide (N) của gene.",
+      "correct": "2400",
+      "explanation": "Số cặp nucleotide = 4080/3,4=1200; tổng nucleotide N=2400.",
+      "image": null,
+      "topic": "Bài tập vận dụng tổng hợp",
+      "level": "VD"
+    },
+    {
+      "id": 85,
+      "type": "short",
+      "question": "Bài tập 2: Bài toán Tính số liên kết và số lượng nucleotide của Gene. Đề bài: Một gene cấu trúc có chiều dài 4080 Angstrom và có tỉ lệ số nucleotide loại A chiếm 15% tổng số nucleotide của gene. b) Tính số lượng từng loại nucleotide (A, T, G, X) của gene.",
+      "correct": "A=T=360; G=X=840",
+      "explanation": "A chiếm 15%×2400=360; theo nguyên tắc bổ sung T=360; G=X=(2400−720)/2=840.",
+      "image": null,
+      "topic": "Bài tập vận dụng tổng hợp",
+      "level": "VD"
+    },
+    {
+      "id": 86,
+      "type": "short",
+      "question": "Bài tập 2: Bài toán Tính số liên kết và số lượng nucleotide của Gene. Đề bài: Một gene cấu trúc có chiều dài 4080 Angstrom và có tỉ lệ số nucleotide loại A chiếm 15% tổng số nucleotide của gene. c) Tính tổng số liên kết hydrogen (H) của gene.",
+      "correct": "3240",
+      "explanation": "H=2×360+3×840=3240.",
+      "image": null,
+      "topic": "Bài tập vận dụng tổng hợp",
+      "level": "VD"
+    },
+    {
+      "id": 87,
+      "type": "short",
+      "question": "Bài tập 3: Mối quan hệ giữa cấu trúc Gene, mARN và Chuỗi Polypeptide. Đề bài: Một phân tử mARN trưởng thành của sinh vật nhân sơ có tổng số 1200 nucleotide. a) Tính số bộ ba mã hóa có trên mARN.",
+      "correct": "400",
+      "explanation": "1200 nucleotide chia 3 bằng 400 bộ ba, tính cả bộ ba kết thúc.",
+      "image": null,
+      "topic": "Bài tập vận dụng tổng hợp",
+      "level": "VD"
+    },
+    {
+      "id": 88,
+      "type": "short",
+      "question": "Bài tập 3: Mối quan hệ giữa cấu trúc Gene, mARN và Chuỗi Polypeptide. Đề bài: Một phân tử mARN trưởng thành của sinh vật nhân sơ có tổng số 1200 nucleotide. b) Chuỗi polypeptide được tổng hợp từ mARN này chứa bao nhiêu axit amin (tính cả axit amin mở đầu)?",
+      "correct": "399",
+      "explanation": "400 codon gồm 1 codon kết thúc không mã hóa amino acid, nên chuỗi có 399 amino acid.",
+      "image": null,
+      "topic": "Bài tập vận dụng tổng hợp",
+      "level": "VD"
+    },
+    {
+      "id": 89,
+      "type": "short",
+      "question": "Bài tập 3: Mối quan hệ giữa cấu trúc Gene, mARN và Chuỗi Polypeptide. Đề bài: Một phân tử mARN trưởng thành của sinh vật nhân sơ có tổng số 1200 nucleotide. c) Chuỗi polypeptide hoàn chỉnh làm nhiệm vụ chức năng trong tế bào chứa bao nhiêu axit amin?",
+      "correct": "398",
+      "explanation": "Theo quy ước bài tập, chuỗi hoàn chỉnh đã cắt bỏ amino acid mở đầu nên còn 398 amino acid.",
+      "image": null,
+      "topic": "Bài tập vận dụng tổng hợp",
+      "level": "VD"
+    },
+    {
+      "id": 90,
+      "type": "short",
+      "question": "Bài tập 4: Bài toán Đột biến điểm và liên kết Hydrogen. Đề bài: Một gene có tổng số 2100 nucleotide và có số liên kết hydrogen là 2700 liên kết. Gene bị đột biến điểm làm giảm đi 3 liên kết hydrogen nhưng chiều dài của gene không thay đổi. a) Xác định số lượng từng loại nucleotide của gene bình thường trước đột biến.",
+      "correct": "A=T=750; G=X=300",
+      "explanation": "Gọi số cặp A-T là x, G-X là y: x+y=1050; 2x+3y=2700 nên x=450, y=600. Suy ra A=T=450 và G=X=600. (Dữ kiện số lượng tổng nucleotide và H dẫn đến kết quả này.)",
+      "image": null,
+      "topic": "Bài tập vận dụng tổng hợp",
+      "level": "VD"
+    },
+    {
+      "id": 91,
+      "type": "short",
+      "question": "Bài tập 4: Bài toán Đột biến điểm và liên kết Hydrogen. Đề bài: Một gene có tổng số 2100 nucleotide và có số liên kết hydrogen là 2700 liên kết. Gene bị đột biến điểm làm giảm đi 3 liên kết hydrogen nhưng chiều dài của gene không thay đổi. b) Xác định dạng đột biến điểm đã xảy ra.",
+      "correct": "Không thể xảy ra do một lần thay thế một cặp nucleotide",
+      "explanation": "Một lần thay thế cặp A-T bằng G-X tăng 1 liên kết H; thay G-X bằng A-T giảm 1 liên kết H. Giảm 3 liên kết H không phù hợp với một đột biến thay thế một cặp.",
+      "image": null,
+      "topic": "Bài tập vận dụng tổng hợp",
+      "level": "VD"
+    },
+    {
+      "id": 92,
+      "type": "short",
+      "question": "Bài tập 4: Bài toán Đột biến điểm và liên kết Hydrogen. Đề bài: Một gene có tổng số 2100 nucleotide và có số liên kết hydrogen là 2700 liên kết. Gene bị đột biến điểm làm giảm đi 3 liên kết hydrogen nhưng chiều dài của gene không thay đổi. c) Tính số lượng từng loại nucleotide của gene sau khi bị đột biến.",
+      "correct": "Không xác định được từ dữ kiện đã cho",
+      "explanation": "Vì giả thiết giảm 3 liên kết H do một đột biến điểm thay thế không phù hợp nên không có bộ nucleotide sau đột biến hợp lệ theo mô tả.",
+      "image": null,
+      "topic": "Bài tập vận dụng tổng hợp",
+      "level": "VD"
+    },
+    {
+      "id": 93,
+      "type": "short",
+      "question": "Bài tập 5: Cơ chế trượt Ribosome tạo chuỗi protein. Đề bài: Một phân tử mARN có tổng số 900 nucleotide được 5 ribosome cùng trượt qua một lần để thực hiện quá trình dịch mã. a) Có bao nhiêu phân tử tRNA đã mang axit amin đến dịch mã cho phân tử mARN này?",
+      "correct": "1495",
+      "explanation": "mRNA có 300 codon, gồm 1 codon kết thúc nên mỗi ribosome cần 299 tRNA; 5 ribosome cần 299×5=1495 tRNA.",
+      "image": null,
+      "topic": "Bài tập vận dụng tổng hợp",
+      "level": "VD"
+    },
+    {
+      "id": 94,
+      "type": "short",
+      "question": "Bài tập 5: Cơ chế trượt Ribosome tạo chuỗi protein. Đề bài: Một phân tử mARN có tổng số 900 nucleotide được 5 ribosome cùng trượt qua một lần để thực hiện quá trình dịch mã. b) Tính tổng số axit amin môi trường nội bào cần cung cấp để hoàn thành việc tổng hợp protein từ nhóm polyribosome này.",
+      "correct": "1495",
+      "explanation": "Mỗi ribosome tổng hợp chuỗi gồm 299 amino acid; 5 ribosome cần 299×5=1495 amino acid.",
+      "image": null,
+      "topic": "Bài tập vận dụng tổng hợp",
+      "level": "VD"
+    }
+  ]
+}
